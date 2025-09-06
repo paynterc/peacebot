@@ -1,0 +1,31 @@
+2025-09-01 15:40:52,164 - INFO - Skipped (not positive enough): Scientists develop plastic that dissolves in seawater - https://www.bbc.co.uk/newsround/articles/clygj701l8yo
+2025-09-01 15:40:52,213 - INFO - Skipped (not positive enough): ‘HIV-ending’ drug could be made for just $25 per patient a year, say researchers - https://www.theguardian.com/society/2025/jun/17/hiv-ending-drug-lenacapavir-manufacture-cost-per-patient-gilead
+2025-09-01 15:40:52,251 - INFO - Skipped (not positive enough): New discovery: tiny protein called Midkine dismantles the toxic clumps behind Alzheimer’s - https://www.sciencedaily.com/releases/2025/08/250822073817.htm
+2025-09-01 15:40:52,995 - INFO - Posted: 'I've always loved trains - now I'm qualified to drive one'. - https://www.bbc.co.uk/news/articles/c1mpkmy10y3o
+2025-09-01 15:41:53,928 - INFO - Skipped (not positive enough): Scientists develop plastic that dissolves in seawater - https://www.bbc.co.uk/newsround/articles/clygj701l8yo
+2025-09-01 15:41:53,968 - INFO - Skipped (not positive enough): ‘HIV-ending’ drug could be made for just $25 per patient a year, say researchers - https://www.theguardian.com/society/2025/jun/17/hiv-ending-drug-lenacapavir-manufacture-cost-per-patient-gilead
+2025-09-01 15:41:54,004 - INFO - Skipped (not positive enough): New discovery: tiny protein called Midkine dismantles the toxic clumps behind Alzheimer’s - https://www.sciencedaily.com/releases/2025/08/250822073817.htm
+2025-09-01 15:41:54,004 - INFO - Skipped (already posted): 'I've always loved trains - now I'm qualified to drive one'. - https://www.bbc.co.uk/news/articles/c1mpkmy10y3o
+2025-09-01 15:41:54,040 - INFO - Skipped (not positive enough): Scientists have developed a honeybee "superfood" that could protect the animals against the threats of climate change and habitat loss. - https://www.bbc.co.uk/news/articles/c776kynn771o
+2025-09-01 15:41:54,628 - INFO - Posted: Pilot Father Sweetly Surprises Newlywed Daughter and Her New Husband by Flying Them Home from Honeymoon - https://people.com/pilot-father-surprises-newlywed-daughter-flight-home-honeymoon-11801213
+No model was supplied, defaulted to distilbert/distilbert-base-uncased-finetuned-sst-2-english and revision 714eb0f (https://huggingface.co/distilbert/distilbert-base-uncased-finetuned-sst-2-english).
+Using a pipeline without specifying a model name and revision in production is not recommended.
+Device set to use mps:0
+2025-09-01 20:54:08,987 - INFO - Skipped (not positive enough): Scientists develop plastic that dissolves in seawater - https://www.bbc.co.uk/newsround/articles/clygj701l8yo
+2025-09-01 20:54:09,041 - INFO - Skipped (not positive enough): ‘HIV-ending’ drug could be made for just $25 per patient a year, say researchers - https://www.theguardian.com/society/2025/jun/17/hiv-ending-drug-lenacapavir-manufacture-cost-per-patient-gilead
+2025-09-01 20:54:09,371 - INFO - Skipped (not positive enough): Wisconsin hospitals will now be required to obtain explicit written consent before allowing medical students to perform a pelvic exam on a patient who is unconscious or under anesthesia: Report - https://www.jsonline.com/story/news/politics/2025/08/08/evers-signs-bipartisan-bill-requiring-consent-for-certain-pelvic-exams/85581465007/
+2025-09-01 20:54:09,407 - INFO - Skipped (not positive enough): New discovery: tiny protein called Midkine dismantles the toxic clumps behind Alzheimer’s - https://www.sciencedaily.com/releases/2025/08/250822073817.htm
+2025-09-01 20:54:09,442 - INFO - Skipped (not positive enough): Scientists have developed a honeybee "superfood" that could protect the animals against the threats of climate change and habitat loss. - https://www.bbc.co.uk/news/articles/c776kynn771o
+2025-09-01 20:54:09,442 - INFO - Skipped (already posted): 'I've always loved trains - now I'm qualified to drive one'. - https://www.bbc.co.uk/news/articles/c1mpkmy10y3o
+2025-09-01 20:54:09,442 - INFO - Skipped (already posted): Pilot Father Sweetly Surprises Newlywed Daughter and Her New Husband by Flying Them Home from Honeymoon - https://people.com/pilot-father-surprises-newlywed-daughter-flight-home-honeymoon-11801213
+2025-09-01 20:54:11,218 - INFO - Posted: Greenville teen's iPhone calls 911 after crash, saves her life - https://www.wfmj.com/story/53018217/greenville-teens-iphone-calls-911-after-crash-saves-her-life
+No model was supplied, defaulted to distilbert/distilbert-base-uncased-finetuned-sst-2-english and revision 714eb0f (https://huggingface.co/distilbert/distilbert-base-uncased-finetuned-sst-2-english).
+Using a pipeline without specifying a model name and revision in production is not recommended.
+Device set to use mps:0
+2025-09-02 20:10:07,035 - INFO - Skipped (not positive enough): Scientists develop plastic that dissolves in seawater - https://www.bbc.co.uk/newsround/articles/clygj701l8yo
+2025-09-02 20:10:07,081 - INFO - Skipped (not positive enough): ‘HIV-ending’ drug could be made for just $25 per patient a year, say researchers - https://www.theguardian.com/society/2025/jun/17/hiv-ending-drug-lenacapavir-manufacture-cost-per-patient-gilead
+2025-09-02 20:10:07,824 - INFO - Posted: Cancer survivor celebrates birthday by paying strangers' hospital parking fees - https://www.cbc.ca/radio/asithappens/caner-parking-fees-birthday-1.7607135
+2025-09-02 20:10:36,600 - INFO - Skipped (not positive enough): Scientists develop plastic that dissolves in seawater - https://www.bbc.co.uk/newsround/articles/clygj701l8yo
+2025-09-02 20:10:36,649 - INFO - Skipped (not positive enough): ‘HIV-ending’ drug could be made for just $25 per patient a year, say researchers - https://www.theguardian.com/society/2025/jun/17/hiv-ending-drug-lenacapavir-manufacture-cost-per-patient-gilead
+2025-09-02 20:10:36,649 - INFO - Skipped (already posted): Cancer survivor celebrates birthday by paying strangers' hospital parking fees - https://www.cbc.ca/radio/asithappens/caner-parking-fees-birthday-1.7607135
+2025-09-02 20:10:37,087 - INFO - Posted: Global solar installations surge 64% in first half of 2025 | World installed 380GW of new solar capacity in first six months of 2025 - https://ember-energy.org/latest-updates/global-solar-installations-surge-64-in-first-half-of-2025/

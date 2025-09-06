@@ -1,0 +1,4 @@
+praw
+Mastodon.py
+transformers
+torch
