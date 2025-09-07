@@ -85,7 +85,7 @@ def post_positive_story():
             
             try:
                 mastodon.toot(toot_text)
-                logging.info(f"Would have posted: {title} - {url}")
+                logging.info(f"Posted: {title} - {url}")
                 save_posted_url(url)
             except Exception as e:
                 logging.error(f"Failed to process: {title} - {url} - {e}")
