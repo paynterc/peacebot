@@ -29,3 +29,538 @@ Device set to use mps:0
 2025-09-02 20:10:36,649 - INFO - Skipped (not positive enough): ‘HIV-ending’ drug could be made for just $25 per patient a year, say researchers - https://www.theguardian.com/society/2025/jun/17/hiv-ending-drug-lenacapavir-manufacture-cost-per-patient-gilead
 2025-09-02 20:10:36,649 - INFO - Skipped (already posted): Cancer survivor celebrates birthday by paying strangers' hospital parking fees - https://www.cbc.ca/radio/asithappens/caner-parking-fees-birthday-1.7607135
 2025-09-02 20:10:37,087 - INFO - Posted: Global solar installations surge 64% in first half of 2025 | World installed 380GW of new solar capacity in first six months of 2025 - https://ember-energy.org/latest-updates/global-solar-installations-surge-64-in-first-half-of-2025/
+2025-09-07 12:03:05,234 - INFO - Sentiment: NEGATIVE (0.82), Keywords match: False
+2025-09-07 12:03:05,235 - INFO - Skipped (not positive enough): Scientists develop plastic that dissolves in seawater - https://www.bbc.co.uk/newsround/articles/clygj701l8yo
+2025-09-07 12:03:05,276 - INFO - Sentiment: NEGATIVE (1.00), Keywords match: False
+2025-09-07 12:03:05,276 - INFO - Skipped (not positive enough): ‘HIV-ending’ drug could be made for just $25 per patient a year, say researchers - https://www.theguardian.com/society/2025/jun/17/hiv-ending-drug-lenacapavir-manufacture-cost-per-patient-gilead
+2025-09-07 12:03:05,582 - INFO - Sentiment: NEGATIVE (0.90), Keywords match: False
+2025-09-07 12:03:05,582 - INFO - Skipped (not positive enough): In a medical first, researchers report that they have implanted CRISPR-edited pancreas cells into a person with type 1 diabetes. The cells produced insulin for months — without the need for the recipient to take immune-dampening drugs. - https://www.nature.com/articles/d41586-025-02802-5
+2025-09-07 12:03:05,624 - INFO - Sentiment: NEGATIVE (0.97), Keywords match: False
+2025-09-07 12:03:05,624 - INFO - Skipped (not positive enough): Woman rescued from domestic violence after using hand signal at 7-Eleven - https://local12.com/news/nation-world/john-palumbi-woman-rescued-from-domestic-violence-after-using-hand-signal-at-7-eleven-cincinnati-dilemma-social-public-health-issue-education-learning-without-bail-nonverbal-communication-methods-suspicious-activity-discreet-law-enforcement-relationships
+2025-09-07 12:03:05,662 - INFO - Sentiment: POSITIVE (1.00), Keywords match: True
+2025-09-07 12:03:05,662 - INFO - Would post: The medical community is thrilled by U.S. support for a 'breakthrough' HIV drug - https://www.npr.org/sections/goats-and-soda/2025/09/04/nx-s1-5527019/hiv-prevention-drug-breakthrough-aids
+2025-09-07 12:03:36,766 - INFO - Sentiment: NEGATIVE (0.82), Keywords match: False
+2025-09-07 12:03:36,766 - INFO - Skipped (not positive enough): Scientists develop plastic that dissolves in seawater - https://www.bbc.co.uk/newsround/articles/clygj701l8yo
+2025-09-07 12:03:36,809 - INFO - Sentiment: NEGATIVE (1.00), Keywords match: False
+2025-09-07 12:03:36,809 - INFO - Skipped (not positive enough): ‘HIV-ending’ drug could be made for just $25 per patient a year, say researchers - https://www.theguardian.com/society/2025/jun/17/hiv-ending-drug-lenacapavir-manufacture-cost-per-patient-gilead
+2025-09-07 12:03:36,848 - INFO - Sentiment: NEGATIVE (0.90), Keywords match: False
+2025-09-07 12:03:36,848 - INFO - Skipped (not positive enough): In a medical first, researchers report that they have implanted CRISPR-edited pancreas cells into a person with type 1 diabetes. The cells produced insulin for months — without the need for the recipient to take immune-dampening drugs. - https://www.nature.com/articles/d41586-025-02802-5
+2025-09-07 12:03:36,888 - INFO - Sentiment: NEGATIVE (0.97), Keywords match: False
+2025-09-07 12:03:36,888 - INFO - Skipped (not positive enough): Woman rescued from domestic violence after using hand signal at 7-Eleven - https://local12.com/news/nation-world/john-palumbi-woman-rescued-from-domestic-violence-after-using-hand-signal-at-7-eleven-cincinnati-dilemma-social-public-health-issue-education-learning-without-bail-nonverbal-communication-methods-suspicious-activity-discreet-law-enforcement-relationships
+2025-09-07 12:03:36,888 - INFO - Skipped (already posted): The medical community is thrilled by U.S. support for a 'breakthrough' HIV drug - https://www.npr.org/sections/goats-and-soda/2025/09/04/nx-s1-5527019/hiv-prevention-drug-breakthrough-aids
+2025-09-07 12:03:36,924 - INFO - Sentiment: NEGATIVE (0.97), Keywords match: False
+2025-09-07 12:03:36,924 - INFO - Skipped (not positive enough): 'I had no idea it would snowball this far': Why a Brazilian favela facing eviction decided to go green - https://www.bbc.com/future/article/20250821-why-a-brazilian-favela-facing-eviction-went-green-with-gardening
+2025-09-07 12:03:36,962 - INFO - Sentiment: POSITIVE (0.99), Keywords match: False
+2025-09-07 12:03:36,963 - INFO - Skipped (not positive enough): France Champions Student Wellbeing with a 2025 School Digital Detox, Paving the Way for a Healthier, Phone-Free Generation - https://kbtimes.tech/france-champions-student-wellbeing-with-a-2025-school-digital-detox-paving-the-way-for-a-healthier-phone-free-generation/
+2025-09-07 12:03:36,999 - INFO - Sentiment: POSITIVE (0.87), Keywords match: False
+2025-09-07 12:03:36,999 - INFO - Skipped (not positive enough): Two members of a rock band say they were inspired to launch an anti-bullying campaign following their own challenging experiences at school. - https://www.bbc.co.uk/news/articles/c99mdjp97m0o
+2025-09-07 12:03:37,007 - INFO - Sentiment: POSITIVE (0.74), Keywords match: False
+2025-09-07 12:03:37,007 - INFO - Skipped (not positive enough): 'What are the odds?': P.E.I. man wins new cottage in raffle after house burned down this summer - https://www.cbc.ca/news/canada/prince-edward-island/pei-2025-big-brothers-big-sisters-cottage-draw-1.7627135
+2025-09-07 12:03:38,076 - INFO - Sentiment: POSITIVE (1.00), Keywords match: True
+2025-09-07 12:03:38,076 - INFO - Would post: Endangered mountain frog breeding program success after years of work - https://www.abc.net.au/news/2025-09-07/endangered-red-yellow-mountain-frogs-breeding-and-release/105739950
+2025-09-07 12:04:04,423 - INFO - Sentiment: NEGATIVE (0.82), Keywords match: False
+2025-09-07 12:04:04,423 - INFO - Skipped (not positive enough): Scientists develop plastic that dissolves in seawater - https://www.bbc.co.uk/newsround/articles/clygj701l8yo
+2025-09-07 12:04:04,469 - INFO - Sentiment: NEGATIVE (1.00), Keywords match: False
+2025-09-07 12:04:04,469 - INFO - Skipped (not positive enough): ‘HIV-ending’ drug could be made for just $25 per patient a year, say researchers - https://www.theguardian.com/society/2025/jun/17/hiv-ending-drug-lenacapavir-manufacture-cost-per-patient-gilead
+2025-09-07 12:04:04,509 - INFO - Sentiment: NEGATIVE (0.90), Keywords match: False
+2025-09-07 12:04:04,509 - INFO - Skipped (not positive enough): In a medical first, researchers report that they have implanted CRISPR-edited pancreas cells into a person with type 1 diabetes. The cells produced insulin for months — without the need for the recipient to take immune-dampening drugs. - https://www.nature.com/articles/d41586-025-02802-5
+2025-09-07 12:04:04,553 - INFO - Sentiment: NEGATIVE (0.97), Keywords match: False
+2025-09-07 12:04:04,553 - INFO - Skipped (not positive enough): Woman rescued from domestic violence after using hand signal at 7-Eleven - https://local12.com/news/nation-world/john-palumbi-woman-rescued-from-domestic-violence-after-using-hand-signal-at-7-eleven-cincinnati-dilemma-social-public-health-issue-education-learning-without-bail-nonverbal-communication-methods-suspicious-activity-discreet-law-enforcement-relationships
+2025-09-07 12:04:04,554 - INFO - Skipped (already posted): The medical community is thrilled by U.S. support for a 'breakthrough' HIV drug - https://www.npr.org/sections/goats-and-soda/2025/09/04/nx-s1-5527019/hiv-prevention-drug-breakthrough-aids
+2025-09-07 12:04:04,588 - INFO - Sentiment: NEGATIVE (0.97), Keywords match: False
+2025-09-07 12:04:04,588 - INFO - Skipped (not positive enough): 'I had no idea it would snowball this far': Why a Brazilian favela facing eviction decided to go green - https://www.bbc.com/future/article/20250821-why-a-brazilian-favela-facing-eviction-went-green-with-gardening
+2025-09-07 12:04:04,625 - INFO - Sentiment: POSITIVE (0.99), Keywords match: False
+2025-09-07 12:04:04,626 - INFO - Skipped (not positive enough): France Champions Student Wellbeing with a 2025 School Digital Detox, Paving the Way for a Healthier, Phone-Free Generation - https://kbtimes.tech/france-champions-student-wellbeing-with-a-2025-school-digital-detox-paving-the-way-for-a-healthier-phone-free-generation/
+2025-09-07 12:04:04,660 - INFO - Sentiment: POSITIVE (0.87), Keywords match: False
+2025-09-07 12:04:04,660 - INFO - Skipped (not positive enough): Two members of a rock band say they were inspired to launch an anti-bullying campaign following their own challenging experiences at school. - https://www.bbc.co.uk/news/articles/c99mdjp97m0o
+2025-09-07 12:04:04,667 - INFO - Sentiment: POSITIVE (0.74), Keywords match: False
+2025-09-07 12:04:04,667 - INFO - Skipped (not positive enough): 'What are the odds?': P.E.I. man wins new cottage in raffle after house burned down this summer - https://www.cbc.ca/news/canada/prince-edward-island/pei-2025-big-brothers-big-sisters-cottage-draw-1.7627135
+2025-09-07 12:04:04,667 - INFO - Skipped (already posted): Endangered mountain frog breeding program success after years of work - https://www.abc.net.au/news/2025-09-07/endangered-red-yellow-mountain-frogs-breeding-and-release/105739950
+2025-09-07 12:04:04,710 - INFO - Sentiment: NEGATIVE (0.62), Keywords match: False
+2025-09-07 12:04:04,710 - INFO - Skipped (not positive enough): Catholic LGBT pilgrimage to Vatican sparks hopes of greater acceptance - https://www.politico.eu/article/catholic-lgbt-pilgrimage-to-vatican-sparks-hopes-of-greater-acceptance/
+2025-09-07 12:04:04,753 - INFO - Sentiment: POSITIVE (1.00), Keywords match: True
+2025-09-07 12:04:04,753 - INFO - Would post: An Uplifting Tale of Ageless Achievement: Japan's Kokichi Akuzawa, 102, Conquers Mount Fuji in 2025 for a New World Record - https://kbtimes.tech/an-uplifting-tale-of-ageless-achievement-japans-kokichi-akuzawa-102-conquers-mount-fuji-in-2025-for-a-new-world-record/
+2025-09-07 12:05:47,767 - INFO - Sentiment: NEGATIVE (0.82), Keywords match: False
+2025-09-07 12:05:47,768 - INFO - Skipped (not positive enough): Scientists develop plastic that dissolves in seawater - https://www.bbc.co.uk/newsround/articles/clygj701l8yo
+2025-09-07 12:05:47,811 - INFO - Sentiment: NEGATIVE (1.00), Keywords match: False
+2025-09-07 12:05:47,812 - INFO - Skipped (not positive enough): ‘HIV-ending’ drug could be made for just $25 per patient a year, say researchers - https://www.theguardian.com/society/2025/jun/17/hiv-ending-drug-lenacapavir-manufacture-cost-per-patient-gilead
+2025-09-07 12:05:47,851 - INFO - Sentiment: NEGATIVE (0.90), Keywords match: False
+2025-09-07 12:05:47,851 - INFO - Skipped (not positive enough): In a medical first, researchers report that they have implanted CRISPR-edited pancreas cells into a person with type 1 diabetes. The cells produced insulin for months — without the need for the recipient to take immune-dampening drugs. - https://www.nature.com/articles/d41586-025-02802-5
+2025-09-07 12:05:47,894 - INFO - Sentiment: NEGATIVE (0.97), Keywords match: False
+2025-09-07 12:05:47,894 - INFO - Skipped (not positive enough): Woman rescued from domestic violence after using hand signal at 7-Eleven - https://local12.com/news/nation-world/john-palumbi-woman-rescued-from-domestic-violence-after-using-hand-signal-at-7-eleven-cincinnati-dilemma-social-public-health-issue-education-learning-without-bail-nonverbal-communication-methods-suspicious-activity-discreet-law-enforcement-relationships
+2025-09-07 12:05:47,894 - INFO - Skipped (already posted): The medical community is thrilled by U.S. support for a 'breakthrough' HIV drug - https://www.npr.org/sections/goats-and-soda/2025/09/04/nx-s1-5527019/hiv-prevention-drug-breakthrough-aids
+2025-09-07 12:05:47,931 - INFO - Sentiment: NEGATIVE (0.97), Keywords match: False
+2025-09-07 12:05:47,931 - INFO - Skipped (not positive enough): 'I had no idea it would snowball this far': Why a Brazilian favela facing eviction decided to go green - https://www.bbc.com/future/article/20250821-why-a-brazilian-favela-facing-eviction-went-green-with-gardening
+2025-09-07 12:05:47,966 - INFO - Sentiment: POSITIVE (0.99), Keywords match: False
+2025-09-07 12:05:47,966 - INFO - Skipped (not positive enough): France Champions Student Wellbeing with a 2025 School Digital Detox, Paving the Way for a Healthier, Phone-Free Generation - https://kbtimes.tech/france-champions-student-wellbeing-with-a-2025-school-digital-detox-paving-the-way-for-a-healthier-phone-free-generation/
+2025-09-07 12:05:48,007 - INFO - Sentiment: POSITIVE (0.87), Keywords match: False
+2025-09-07 12:05:48,007 - INFO - Skipped (not positive enough): Two members of a rock band say they were inspired to launch an anti-bullying campaign following their own challenging experiences at school. - https://www.bbc.co.uk/news/articles/c99mdjp97m0o
+2025-09-07 12:05:48,014 - INFO - Sentiment: POSITIVE (0.74), Keywords match: False
+2025-09-07 12:05:48,014 - INFO - Skipped (not positive enough): 'What are the odds?': P.E.I. man wins new cottage in raffle after house burned down this summer - https://www.cbc.ca/news/canada/prince-edward-island/pei-2025-big-brothers-big-sisters-cottage-draw-1.7627135
+2025-09-07 12:05:48,014 - INFO - Skipped (already posted): Endangered mountain frog breeding program success after years of work - https://www.abc.net.au/news/2025-09-07/endangered-red-yellow-mountain-frogs-breeding-and-release/105739950
+2025-09-07 12:05:48,061 - INFO - Sentiment: NEGATIVE (0.62), Keywords match: False
+2025-09-07 12:05:48,061 - INFO - Skipped (not positive enough): Catholic LGBT pilgrimage to Vatican sparks hopes of greater acceptance - https://www.politico.eu/article/catholic-lgbt-pilgrimage-to-vatican-sparks-hopes-of-greater-acceptance/
+2025-09-07 12:05:48,061 - INFO - Skipped (already posted): An Uplifting Tale of Ageless Achievement: Japan's Kokichi Akuzawa, 102, Conquers Mount Fuji in 2025 for a New World Record - https://kbtimes.tech/an-uplifting-tale-of-ageless-achievement-japans-kokichi-akuzawa-102-conquers-mount-fuji-in-2025-for-a-new-world-record/
+2025-09-07 12:05:48,255 - INFO - Sentiment: NEGATIVE (0.98), Keywords match: False
+2025-09-07 12:05:48,255 - INFO - Skipped (not positive enough): Dog given less than 6 months to live cured of cancer after clinical trial - https://www.fox29.com/news/dog-given-less-than-6-months-live-cured-cancer-after-clinical-trial?link_source=ta_first_comment&taid=68baba80d6085a00012ba273
+2025-09-07 12:05:48,266 - INFO - Sentiment: POSITIVE (0.94), Keywords match: False
+2025-09-07 12:05:48,266 - INFO - Skipped (not positive enough): Microsoft open-sources Bill Gates’ 6502 BASIC from 1978 | Historic interpreter taught millions to program on Commodore and Apple computers. - https://arstechnica.com/gadgets/2025/09/microsoft-open-sources-bill-gates-6502-basic-from-1978/
+2025-09-07 12:05:49,348 - INFO - Sentiment: POSITIVE (0.93), Keywords match: False
+2025-09-07 12:05:49,348 - INFO - Skipped (not positive enough): North Yorkshire Moors Railway 'hires' three new railway kittens - https://www.bbc.co.uk/news/articles/cy0vr1xdx5xo
+2025-09-07 12:05:49,389 - INFO - Sentiment: POSITIVE (0.95), Keywords match: False
+2025-09-07 12:05:49,390 - INFO - Skipped (not positive enough): Sembcorp to build 86MWp floating solar project on Singapore’s Pandan Reservoir - https://www.pv-tech.org/sembcorp-to-build-86mwp-floating-solar-project-on-singapores-pandan-reservoir/
+2025-09-07 12:05:49,431 - INFO - Sentiment: POSITIVE (0.96), Keywords match: False
+2025-09-07 12:05:49,431 - INFO - Skipped (not positive enough): 'What are the odds?': Man wins new cottage in raffle after house burned down this summer - https://www.cbc.ca/news/canada/prince-edward-island/pei-2025-big-brothers-big-sisters-cottage-draw-1.7627135
+2025-09-07 12:05:49,475 - INFO - Sentiment: POSITIVE (0.97), Keywords match: False
+2025-09-07 12:05:49,475 - INFO - Skipped (not positive enough): NSW locks in great koala national park and brings in immediate ban on logging - https://www.theguardian.com/australia-news/2025/sep/07/nsw-locks-in-great-koala-national-park-and-brings-in-immediate-ban-on-logging
+2025-09-07 12:05:49,522 - INFO - Sentiment: POSITIVE (0.97), Keywords match: False
+2025-09-07 12:05:49,522 - INFO - Skipped (not positive enough): Verano Energy secures financing for 83MW/660MWh solar-plus-storage project in Chile - https://www.pv-tech.org/verano-energy-secures-financing-for-83mw-660mwh-solar-plus-storage-project-in-chile/
+2025-09-07 12:05:49,536 - INFO - Sentiment: POSITIVE (0.76), Keywords match: False
+2025-09-07 12:05:49,536 - INFO - Skipped (not positive enough): A Pill to Heal the Brain Could Revolutionize Neuroscience - https://www.nytimes.com/2025/09/04/science/neuroscience-brain-injury-pill.html?smid=nytcore-ios-share&referringSource=articleShare
+2025-09-07 12:06:16,559 - INFO - Sentiment: NEGATIVE (0.82), Keywords match: False
+2025-09-07 12:06:16,560 - INFO - Skipped (not positive enough): Scientists develop plastic that dissolves in seawater - https://www.bbc.co.uk/newsround/articles/clygj701l8yo
+2025-09-07 12:06:16,600 - INFO - Sentiment: NEGATIVE (1.00), Keywords match: False
+2025-09-07 12:06:16,600 - INFO - Skipped (not positive enough): ‘HIV-ending’ drug could be made for just $25 per patient a year, say researchers - https://www.theguardian.com/society/2025/jun/17/hiv-ending-drug-lenacapavir-manufacture-cost-per-patient-gilead
+2025-09-07 12:06:16,641 - INFO - Sentiment: NEGATIVE (0.90), Keywords match: False
+2025-09-07 12:06:16,641 - INFO - Skipped (not positive enough): In a medical first, researchers report that they have implanted CRISPR-edited pancreas cells into a person with type 1 diabetes. The cells produced insulin for months — without the need for the recipient to take immune-dampening drugs. - https://www.nature.com/articles/d41586-025-02802-5
+2025-09-07 12:06:16,682 - INFO - Sentiment: NEGATIVE (0.97), Keywords match: False
+2025-09-07 12:06:16,682 - INFO - Skipped (not positive enough): Woman rescued from domestic violence after using hand signal at 7-Eleven - https://local12.com/news/nation-world/john-palumbi-woman-rescued-from-domestic-violence-after-using-hand-signal-at-7-eleven-cincinnati-dilemma-social-public-health-issue-education-learning-without-bail-nonverbal-communication-methods-suspicious-activity-discreet-law-enforcement-relationships
+2025-09-07 12:06:16,682 - INFO - Skipped (already posted): The medical community is thrilled by U.S. support for a 'breakthrough' HIV drug - https://www.npr.org/sections/goats-and-soda/2025/09/04/nx-s1-5527019/hiv-prevention-drug-breakthrough-aids
+2025-09-07 12:06:16,718 - INFO - Sentiment: NEGATIVE (0.97), Keywords match: False
+2025-09-07 12:06:16,718 - INFO - Skipped (not positive enough): 'I had no idea it would snowball this far': Why a Brazilian favela facing eviction decided to go green - https://www.bbc.com/future/article/20250821-why-a-brazilian-favela-facing-eviction-went-green-with-gardening
+2025-09-07 12:06:16,755 - INFO - Sentiment: POSITIVE (0.99), Keywords match: False
+2025-09-07 12:06:16,756 - INFO - Skipped (not positive enough): France Champions Student Wellbeing with a 2025 School Digital Detox, Paving the Way for a Healthier, Phone-Free Generation - https://kbtimes.tech/france-champions-student-wellbeing-with-a-2025-school-digital-detox-paving-the-way-for-a-healthier-phone-free-generation/
+2025-09-07 12:06:16,792 - INFO - Sentiment: POSITIVE (0.87), Keywords match: False
+2025-09-07 12:06:16,792 - INFO - Skipped (not positive enough): Two members of a rock band say they were inspired to launch an anti-bullying campaign following their own challenging experiences at school. - https://www.bbc.co.uk/news/articles/c99mdjp97m0o
+2025-09-07 12:06:16,800 - INFO - Sentiment: POSITIVE (0.74), Keywords match: False
+2025-09-07 12:06:16,800 - INFO - Skipped (not positive enough): 'What are the odds?': P.E.I. man wins new cottage in raffle after house burned down this summer - https://www.cbc.ca/news/canada/prince-edward-island/pei-2025-big-brothers-big-sisters-cottage-draw-1.7627135
+2025-09-07 12:06:16,800 - INFO - Skipped (already posted): Endangered mountain frog breeding program success after years of work - https://www.abc.net.au/news/2025-09-07/endangered-red-yellow-mountain-frogs-breeding-and-release/105739950
+2025-09-07 12:06:16,844 - INFO - Sentiment: NEGATIVE (0.62), Keywords match: False
+2025-09-07 12:06:16,844 - INFO - Skipped (not positive enough): Catholic LGBT pilgrimage to Vatican sparks hopes of greater acceptance - https://www.politico.eu/article/catholic-lgbt-pilgrimage-to-vatican-sparks-hopes-of-greater-acceptance/
+2025-09-07 12:06:16,844 - INFO - Skipped (already posted): An Uplifting Tale of Ageless Achievement: Japan's Kokichi Akuzawa, 102, Conquers Mount Fuji in 2025 for a New World Record - https://kbtimes.tech/an-uplifting-tale-of-ageless-achievement-japans-kokichi-akuzawa-102-conquers-mount-fuji-in-2025-for-a-new-world-record/
+2025-09-07 12:06:16,883 - INFO - Sentiment: NEGATIVE (0.98), Keywords match: False
+2025-09-07 12:06:16,883 - INFO - Skipped (not positive enough): Dog given less than 6 months to live cured of cancer after clinical trial - https://www.fox29.com/news/dog-given-less-than-6-months-live-cured-cancer-after-clinical-trial?link_source=ta_first_comment&taid=68baba80d6085a00012ba273
+2025-09-07 12:06:16,891 - INFO - Sentiment: POSITIVE (0.94), Keywords match: False
+2025-09-07 12:06:16,891 - INFO - Skipped (not positive enough): Microsoft open-sources Bill Gates’ 6502 BASIC from 1978 | Historic interpreter taught millions to program on Commodore and Apple computers. - https://arstechnica.com/gadgets/2025/09/microsoft-open-sources-bill-gates-6502-basic-from-1978/
+2025-09-07 12:06:16,937 - INFO - Sentiment: POSITIVE (0.93), Keywords match: False
+2025-09-07 12:06:16,937 - INFO - Skipped (not positive enough): North Yorkshire Moors Railway 'hires' three new railway kittens - https://www.bbc.co.uk/news/articles/cy0vr1xdx5xo
+2025-09-07 12:06:16,977 - INFO - Sentiment: POSITIVE (0.95), Keywords match: False
+2025-09-07 12:06:16,978 - INFO - Skipped (not positive enough): Sembcorp to build 86MWp floating solar project on Singapore’s Pandan Reservoir - https://www.pv-tech.org/sembcorp-to-build-86mwp-floating-solar-project-on-singapores-pandan-reservoir/
+2025-09-07 12:06:17,015 - INFO - Sentiment: POSITIVE (0.96), Keywords match: False
+2025-09-07 12:06:17,015 - INFO - Skipped (not positive enough): 'What are the odds?': Man wins new cottage in raffle after house burned down this summer - https://www.cbc.ca/news/canada/prince-edward-island/pei-2025-big-brothers-big-sisters-cottage-draw-1.7627135
+2025-09-07 12:06:17,055 - INFO - Sentiment: POSITIVE (0.97), Keywords match: False
+2025-09-07 12:06:17,056 - INFO - Skipped (not positive enough): NSW locks in great koala national park and brings in immediate ban on logging - https://www.theguardian.com/australia-news/2025/sep/07/nsw-locks-in-great-koala-national-park-and-brings-in-immediate-ban-on-logging
+2025-09-07 12:06:17,098 - INFO - Sentiment: POSITIVE (0.97), Keywords match: False
+2025-09-07 12:06:17,098 - INFO - Skipped (not positive enough): Verano Energy secures financing for 83MW/660MWh solar-plus-storage project in Chile - https://www.pv-tech.org/verano-energy-secures-financing-for-83mw-660mwh-solar-plus-storage-project-in-chile/
+2025-09-07 12:06:17,106 - INFO - Sentiment: POSITIVE (0.76), Keywords match: False
+2025-09-07 12:06:17,106 - INFO - Skipped (not positive enough): A Pill to Heal the Brain Could Revolutionize Neuroscience - https://www.nytimes.com/2025/09/04/science/neuroscience-brain-injury-pill.html?smid=nytcore-ios-share&referringSource=articleShare
+2025-09-07 12:06:34,250 - INFO - Sentiment: NEGATIVE (0.82), Keywords match: False
+2025-09-07 12:06:34,251 - INFO - Skipped (not positive enough): Scientists develop plastic that dissolves in seawater - https://www.bbc.co.uk/newsround/articles/clygj701l8yo
+2025-09-07 12:06:34,293 - INFO - Sentiment: NEGATIVE (1.00), Keywords match: False
+2025-09-07 12:06:34,293 - INFO - Skipped (not positive enough): ‘HIV-ending’ drug could be made for just $25 per patient a year, say researchers - https://www.theguardian.com/society/2025/jun/17/hiv-ending-drug-lenacapavir-manufacture-cost-per-patient-gilead
+2025-09-07 12:06:34,333 - INFO - Sentiment: NEGATIVE (0.90), Keywords match: False
+2025-09-07 12:06:34,333 - INFO - Skipped (not positive enough): In a medical first, researchers report that they have implanted CRISPR-edited pancreas cells into a person with type 1 diabetes. The cells produced insulin for months — without the need for the recipient to take immune-dampening drugs. - https://www.nature.com/articles/d41586-025-02802-5
+2025-09-07 12:06:34,373 - INFO - Sentiment: NEGATIVE (0.97), Keywords match: False
+2025-09-07 12:06:34,373 - INFO - Skipped (not positive enough): Woman rescued from domestic violence after using hand signal at 7-Eleven - https://local12.com/news/nation-world/john-palumbi-woman-rescued-from-domestic-violence-after-using-hand-signal-at-7-eleven-cincinnati-dilemma-social-public-health-issue-education-learning-without-bail-nonverbal-communication-methods-suspicious-activity-discreet-law-enforcement-relationships
+2025-09-07 12:06:34,373 - INFO - Skipped (already posted): The medical community is thrilled by U.S. support for a 'breakthrough' HIV drug - https://www.npr.org/sections/goats-and-soda/2025/09/04/nx-s1-5527019/hiv-prevention-drug-breakthrough-aids
+2025-09-07 12:06:34,410 - INFO - Sentiment: NEGATIVE (0.97), Keywords match: False
+2025-09-07 12:06:34,411 - INFO - Skipped (not positive enough): 'I had no idea it would snowball this far': Why a Brazilian favela facing eviction decided to go green - https://www.bbc.com/future/article/20250821-why-a-brazilian-favela-facing-eviction-went-green-with-gardening
+2025-09-07 12:06:34,448 - INFO - Sentiment: POSITIVE (0.99), Keywords match: False
+2025-09-07 12:06:34,448 - INFO - Skipped (not positive enough): France Champions Student Wellbeing with a 2025 School Digital Detox, Paving the Way for a Healthier, Phone-Free Generation - https://kbtimes.tech/france-champions-student-wellbeing-with-a-2025-school-digital-detox-paving-the-way-for-a-healthier-phone-free-generation/
+2025-09-07 12:06:34,484 - INFO - Sentiment: POSITIVE (0.87), Keywords match: False
+2025-09-07 12:06:34,484 - INFO - Skipped (not positive enough): Two members of a rock band say they were inspired to launch an anti-bullying campaign following their own challenging experiences at school. - https://www.bbc.co.uk/news/articles/c99mdjp97m0o
+2025-09-07 12:06:34,493 - INFO - Sentiment: POSITIVE (0.74), Keywords match: False
+2025-09-07 12:06:34,493 - INFO - Skipped (not positive enough): 'What are the odds?': P.E.I. man wins new cottage in raffle after house burned down this summer - https://www.cbc.ca/news/canada/prince-edward-island/pei-2025-big-brothers-big-sisters-cottage-draw-1.7627135
+2025-09-07 12:06:34,493 - INFO - Skipped (already posted): Endangered mountain frog breeding program success after years of work - https://www.abc.net.au/news/2025-09-07/endangered-red-yellow-mountain-frogs-breeding-and-release/105739950
+2025-09-07 12:06:34,539 - INFO - Sentiment: NEGATIVE (0.62), Keywords match: False
+2025-09-07 12:06:34,539 - INFO - Skipped (not positive enough): Catholic LGBT pilgrimage to Vatican sparks hopes of greater acceptance - https://www.politico.eu/article/catholic-lgbt-pilgrimage-to-vatican-sparks-hopes-of-greater-acceptance/
+2025-09-07 12:06:34,539 - INFO - Skipped (already posted): An Uplifting Tale of Ageless Achievement: Japan's Kokichi Akuzawa, 102, Conquers Mount Fuji in 2025 for a New World Record - https://kbtimes.tech/an-uplifting-tale-of-ageless-achievement-japans-kokichi-akuzawa-102-conquers-mount-fuji-in-2025-for-a-new-world-record/
+2025-09-07 12:06:34,578 - INFO - Sentiment: NEGATIVE (0.98), Keywords match: False
+2025-09-07 12:06:34,578 - INFO - Skipped (not positive enough): Dog given less than 6 months to live cured of cancer after clinical trial - https://www.fox29.com/news/dog-given-less-than-6-months-live-cured-cancer-after-clinical-trial?link_source=ta_first_comment&taid=68baba80d6085a00012ba273
+2025-09-07 12:06:34,586 - INFO - Sentiment: POSITIVE (0.94), Keywords match: False
+2025-09-07 12:06:34,586 - INFO - Skipped (not positive enough): Microsoft open-sources Bill Gates’ 6502 BASIC from 1978 | Historic interpreter taught millions to program on Commodore and Apple computers. - https://arstechnica.com/gadgets/2025/09/microsoft-open-sources-bill-gates-6502-basic-from-1978/
+2025-09-07 12:06:34,630 - INFO - Sentiment: POSITIVE (0.93), Keywords match: False
+2025-09-07 12:06:34,630 - INFO - Skipped (not positive enough): North Yorkshire Moors Railway 'hires' three new railway kittens - https://www.bbc.co.uk/news/articles/cy0vr1xdx5xo
+2025-09-07 12:06:34,667 - INFO - Sentiment: POSITIVE (0.95), Keywords match: False
+2025-09-07 12:06:34,667 - INFO - Skipped (not positive enough): Sembcorp to build 86MWp floating solar project on Singapore’s Pandan Reservoir - https://www.pv-tech.org/sembcorp-to-build-86mwp-floating-solar-project-on-singapores-pandan-reservoir/
+2025-09-07 12:06:34,707 - INFO - Sentiment: POSITIVE (0.96), Keywords match: False
+2025-09-07 12:06:34,708 - INFO - Skipped (not positive enough): 'What are the odds?': Man wins new cottage in raffle after house burned down this summer - https://www.cbc.ca/news/canada/prince-edward-island/pei-2025-big-brothers-big-sisters-cottage-draw-1.7627135
+2025-09-07 12:06:34,749 - INFO - Sentiment: POSITIVE (0.97), Keywords match: False
+2025-09-07 12:06:34,749 - INFO - Skipped (not positive enough): NSW locks in great koala national park and brings in immediate ban on logging - https://www.theguardian.com/australia-news/2025/sep/07/nsw-locks-in-great-koala-national-park-and-brings-in-immediate-ban-on-logging
+2025-09-07 12:06:34,791 - INFO - Sentiment: POSITIVE (0.97), Keywords match: False
+2025-09-07 12:06:34,791 - INFO - Skipped (not positive enough): Verano Energy secures financing for 83MW/660MWh solar-plus-storage project in Chile - https://www.pv-tech.org/verano-energy-secures-financing-for-83mw-660mwh-solar-plus-storage-project-in-chile/
+2025-09-07 12:06:34,799 - INFO - Sentiment: POSITIVE (0.76), Keywords match: False
+2025-09-07 12:06:34,799 - INFO - Skipped (not positive enough): A Pill to Heal the Brain Could Revolutionize Neuroscience - https://www.nytimes.com/2025/09/04/science/neuroscience-brain-injury-pill.html?smid=nytcore-ios-share&referringSource=articleShare
+2025-09-07 12:07:48,225 - INFO - Sentiment: NEGATIVE (0.82), Keywords match: False
+2025-09-07 12:07:48,225 - INFO - Skipped (not positive enough): Scientists develop plastic that dissolves in seawater - https://www.bbc.co.uk/newsround/articles/clygj701l8yo
+2025-09-07 12:07:48,267 - INFO - Sentiment: NEGATIVE (1.00), Keywords match: False
+2025-09-07 12:07:48,267 - INFO - Skipped (not positive enough): ‘HIV-ending’ drug could be made for just $25 per patient a year, say researchers - https://www.theguardian.com/society/2025/jun/17/hiv-ending-drug-lenacapavir-manufacture-cost-per-patient-gilead
+2025-09-07 12:07:48,305 - INFO - Sentiment: NEGATIVE (0.90), Keywords match: False
+2025-09-07 12:07:48,305 - INFO - Skipped (not positive enough): In a medical first, researchers report that they have implanted CRISPR-edited pancreas cells into a person with type 1 diabetes. The cells produced insulin for months — without the need for the recipient to take immune-dampening drugs. - https://www.nature.com/articles/d41586-025-02802-5
+2025-09-07 12:07:48,351 - INFO - Sentiment: NEGATIVE (0.97), Keywords match: False
+2025-09-07 12:07:48,351 - INFO - Skipped (not positive enough): Woman rescued from domestic violence after using hand signal at 7-Eleven - https://local12.com/news/nation-world/john-palumbi-woman-rescued-from-domestic-violence-after-using-hand-signal-at-7-eleven-cincinnati-dilemma-social-public-health-issue-education-learning-without-bail-nonverbal-communication-methods-suspicious-activity-discreet-law-enforcement-relationships
+2025-09-07 12:07:48,351 - INFO - Skipped (already posted): The medical community is thrilled by U.S. support for a 'breakthrough' HIV drug - https://www.npr.org/sections/goats-and-soda/2025/09/04/nx-s1-5527019/hiv-prevention-drug-breakthrough-aids
+2025-09-07 12:07:48,389 - INFO - Sentiment: NEGATIVE (0.97), Keywords match: False
+2025-09-07 12:07:48,389 - INFO - Skipped (not positive enough): 'I had no idea it would snowball this far': Why a Brazilian favela facing eviction decided to go green - https://www.bbc.com/future/article/20250821-why-a-brazilian-favela-facing-eviction-went-green-with-gardening
+2025-09-07 12:07:48,429 - INFO - Sentiment: POSITIVE (0.99), Keywords match: False
+2025-09-07 12:07:48,429 - INFO - Skipped (not positive enough): France Champions Student Wellbeing with a 2025 School Digital Detox, Paving the Way for a Healthier, Phone-Free Generation - https://kbtimes.tech/france-champions-student-wellbeing-with-a-2025-school-digital-detox-paving-the-way-for-a-healthier-phone-free-generation/
+2025-09-07 12:07:48,470 - INFO - Sentiment: POSITIVE (0.87), Keywords match: False
+2025-09-07 12:07:48,470 - INFO - Skipped (not positive enough): Two members of a rock band say they were inspired to launch an anti-bullying campaign following their own challenging experiences at school. - https://www.bbc.co.uk/news/articles/c99mdjp97m0o
+2025-09-07 12:07:48,482 - INFO - Sentiment: POSITIVE (0.74), Keywords match: False
+2025-09-07 12:07:48,482 - INFO - Skipped (not positive enough): 'What are the odds?': P.E.I. man wins new cottage in raffle after house burned down this summer - https://www.cbc.ca/news/canada/prince-edward-island/pei-2025-big-brothers-big-sisters-cottage-draw-1.7627135
+2025-09-07 12:07:48,482 - INFO - Skipped (already posted): Endangered mountain frog breeding program success after years of work - https://www.abc.net.au/news/2025-09-07/endangered-red-yellow-mountain-frogs-breeding-and-release/105739950
+2025-09-07 12:07:48,531 - INFO - Sentiment: NEGATIVE (0.62), Keywords match: False
+2025-09-07 12:07:48,531 - INFO - Skipped (not positive enough): Catholic LGBT pilgrimage to Vatican sparks hopes of greater acceptance - https://www.politico.eu/article/catholic-lgbt-pilgrimage-to-vatican-sparks-hopes-of-greater-acceptance/
+2025-09-07 12:07:48,531 - INFO - Skipped (already posted): An Uplifting Tale of Ageless Achievement: Japan's Kokichi Akuzawa, 102, Conquers Mount Fuji in 2025 for a New World Record - https://kbtimes.tech/an-uplifting-tale-of-ageless-achievement-japans-kokichi-akuzawa-102-conquers-mount-fuji-in-2025-for-a-new-world-record/
+2025-09-07 12:07:48,573 - INFO - Sentiment: NEGATIVE (0.98), Keywords match: False
+2025-09-07 12:07:48,574 - INFO - Skipped (not positive enough): Dog given less than 6 months to live cured of cancer after clinical trial - https://www.fox29.com/news/dog-given-less-than-6-months-live-cured-cancer-after-clinical-trial?link_source=ta_first_comment&taid=68baba80d6085a00012ba273
+2025-09-07 12:07:48,585 - INFO - Sentiment: POSITIVE (0.94), Keywords match: False
+2025-09-07 12:07:48,585 - INFO - Skipped (not positive enough): Microsoft open-sources Bill Gates’ 6502 BASIC from 1978 | Historic interpreter taught millions to program on Commodore and Apple computers. - https://arstechnica.com/gadgets/2025/09/microsoft-open-sources-bill-gates-6502-basic-from-1978/
+2025-09-07 12:07:48,633 - INFO - Sentiment: POSITIVE (0.93), Keywords match: False
+2025-09-07 12:07:48,633 - INFO - Skipped (not positive enough): North Yorkshire Moors Railway 'hires' three new railway kittens - https://www.bbc.co.uk/news/articles/cy0vr1xdx5xo
+2025-09-07 12:07:48,671 - INFO - Sentiment: POSITIVE (0.95), Keywords match: False
+2025-09-07 12:07:48,671 - INFO - Skipped (not positive enough): Sembcorp to build 86MWp floating solar project on Singapore’s Pandan Reservoir - https://www.pv-tech.org/sembcorp-to-build-86mwp-floating-solar-project-on-singapores-pandan-reservoir/
+2025-09-07 12:07:48,715 - INFO - Sentiment: POSITIVE (0.96), Keywords match: False
+2025-09-07 12:07:48,715 - INFO - Skipped (not positive enough): 'What are the odds?': Man wins new cottage in raffle after house burned down this summer - https://www.cbc.ca/news/canada/prince-edward-island/pei-2025-big-brothers-big-sisters-cottage-draw-1.7627135
+2025-09-07 12:07:48,757 - INFO - Sentiment: POSITIVE (0.97), Keywords match: False
+2025-09-07 12:07:48,757 - INFO - Skipped (not positive enough): NSW locks in great koala national park and brings in immediate ban on logging - https://www.theguardian.com/australia-news/2025/sep/07/nsw-locks-in-great-koala-national-park-and-brings-in-immediate-ban-on-logging
+2025-09-07 12:07:48,799 - INFO - Sentiment: POSITIVE (0.97), Keywords match: False
+2025-09-07 12:07:48,799 - INFO - Skipped (not positive enough): Verano Energy secures financing for 83MW/660MWh solar-plus-storage project in Chile - https://www.pv-tech.org/verano-energy-secures-financing-for-83mw-660mwh-solar-plus-storage-project-in-chile/
+2025-09-07 12:07:48,808 - INFO - Sentiment: POSITIVE (0.76), Keywords match: False
+2025-09-07 12:07:48,808 - INFO - Skipped (not positive enough): A Pill to Heal the Brain Could Revolutionize Neuroscience - https://www.nytimes.com/2025/09/04/science/neuroscience-brain-injury-pill.html?smid=nytcore-ios-share&referringSource=articleShare
+2025-09-07 12:09:07,639 - INFO - Sentiment: NEGATIVE (0.82), Keywords match: False
+2025-09-07 12:09:07,639 - INFO - Skipped (not positive enough): Scientists develop plastic that dissolves in seawater - https://www.bbc.co.uk/newsround/articles/clygj701l8yo
+2025-09-07 12:09:07,681 - INFO - Sentiment: NEGATIVE (1.00), Keywords match: False
+2025-09-07 12:09:07,681 - INFO - Skipped (not positive enough): ‘HIV-ending’ drug could be made for just $25 per patient a year, say researchers - https://www.theguardian.com/society/2025/jun/17/hiv-ending-drug-lenacapavir-manufacture-cost-per-patient-gilead
+2025-09-07 12:09:07,723 - INFO - Sentiment: NEGATIVE (0.90), Keywords match: False
+2025-09-07 12:09:07,723 - INFO - Skipped (not positive enough): In a medical first, researchers report that they have implanted CRISPR-edited pancreas cells into a person with type 1 diabetes. The cells produced insulin for months — without the need for the recipient to take immune-dampening drugs. - https://www.nature.com/articles/d41586-025-02802-5
+2025-09-07 12:09:07,763 - INFO - Sentiment: NEGATIVE (0.97), Keywords match: False
+2025-09-07 12:09:07,764 - INFO - Skipped (not positive enough): Woman rescued from domestic violence after using hand signal at 7-Eleven - https://local12.com/news/nation-world/john-palumbi-woman-rescued-from-domestic-violence-after-using-hand-signal-at-7-eleven-cincinnati-dilemma-social-public-health-issue-education-learning-without-bail-nonverbal-communication-methods-suspicious-activity-discreet-law-enforcement-relationships
+2025-09-07 12:09:07,764 - INFO - Skipped (already posted): The medical community is thrilled by U.S. support for a 'breakthrough' HIV drug - https://www.npr.org/sections/goats-and-soda/2025/09/04/nx-s1-5527019/hiv-prevention-drug-breakthrough-aids
+2025-09-07 12:09:07,801 - INFO - Sentiment: NEGATIVE (0.97), Keywords match: False
+2025-09-07 12:09:07,801 - INFO - Skipped (not positive enough): 'I had no idea it would snowball this far': Why a Brazilian favela facing eviction decided to go green - https://www.bbc.com/future/article/20250821-why-a-brazilian-favela-facing-eviction-went-green-with-gardening
+2025-09-07 12:09:07,837 - INFO - Sentiment: POSITIVE (0.99), Keywords match: False
+2025-09-07 12:09:07,837 - INFO - Skipped (not positive enough): France Champions Student Wellbeing with a 2025 School Digital Detox, Paving the Way for a Healthier, Phone-Free Generation - https://kbtimes.tech/france-champions-student-wellbeing-with-a-2025-school-digital-detox-paving-the-way-for-a-healthier-phone-free-generation/
+2025-09-07 12:09:07,875 - INFO - Sentiment: POSITIVE (0.87), Keywords match: False
+2025-09-07 12:09:07,876 - INFO - Skipped (not positive enough): Two members of a rock band say they were inspired to launch an anti-bullying campaign following their own challenging experiences at school. - https://www.bbc.co.uk/news/articles/c99mdjp97m0o
+2025-09-07 12:09:07,887 - INFO - Sentiment: POSITIVE (0.74), Keywords match: False
+2025-09-07 12:09:07,887 - INFO - Skipped (not positive enough): 'What are the odds?': P.E.I. man wins new cottage in raffle after house burned down this summer - https://www.cbc.ca/news/canada/prince-edward-island/pei-2025-big-brothers-big-sisters-cottage-draw-1.7627135
+2025-09-07 12:09:07,887 - INFO - Skipped (already posted): Endangered mountain frog breeding program success after years of work - https://www.abc.net.au/news/2025-09-07/endangered-red-yellow-mountain-frogs-breeding-and-release/105739950
+2025-09-07 12:09:07,933 - INFO - Sentiment: NEGATIVE (0.62), Keywords match: False
+2025-09-07 12:09:07,933 - INFO - Skipped (not positive enough): Catholic LGBT pilgrimage to Vatican sparks hopes of greater acceptance - https://www.politico.eu/article/catholic-lgbt-pilgrimage-to-vatican-sparks-hopes-of-greater-acceptance/
+2025-09-07 12:09:07,933 - INFO - Skipped (already posted): An Uplifting Tale of Ageless Achievement: Japan's Kokichi Akuzawa, 102, Conquers Mount Fuji in 2025 for a New World Record - https://kbtimes.tech/an-uplifting-tale-of-ageless-achievement-japans-kokichi-akuzawa-102-conquers-mount-fuji-in-2025-for-a-new-world-record/
+2025-09-07 12:09:07,975 - INFO - Sentiment: NEGATIVE (0.98), Keywords match: False
+2025-09-07 12:09:07,975 - INFO - Skipped (not positive enough): Dog given less than 6 months to live cured of cancer after clinical trial - https://www.fox29.com/news/dog-given-less-than-6-months-live-cured-cancer-after-clinical-trial?link_source=ta_first_comment&taid=68baba80d6085a00012ba273
+2025-09-07 12:09:07,984 - INFO - Sentiment: POSITIVE (0.94), Keywords match: False
+2025-09-07 12:09:07,984 - INFO - Skipped (not positive enough): Microsoft open-sources Bill Gates’ 6502 BASIC from 1978 | Historic interpreter taught millions to program on Commodore and Apple computers. - https://arstechnica.com/gadgets/2025/09/microsoft-open-sources-bill-gates-6502-basic-from-1978/
+2025-09-07 12:09:08,033 - INFO - Sentiment: POSITIVE (0.93), Keywords match: False
+2025-09-07 12:09:08,033 - INFO - Skipped (not positive enough): North Yorkshire Moors Railway 'hires' three new railway kittens - https://www.bbc.co.uk/news/articles/cy0vr1xdx5xo
+2025-09-07 12:09:08,070 - INFO - Sentiment: POSITIVE (0.95), Keywords match: False
+2025-09-07 12:09:08,070 - INFO - Skipped (not positive enough): Sembcorp to build 86MWp floating solar project on Singapore’s Pandan Reservoir - https://www.pv-tech.org/sembcorp-to-build-86mwp-floating-solar-project-on-singapores-pandan-reservoir/
+2025-09-07 12:09:08,112 - INFO - Sentiment: POSITIVE (0.96), Keywords match: False
+2025-09-07 12:09:08,112 - INFO - Skipped (not positive enough): 'What are the odds?': Man wins new cottage in raffle after house burned down this summer - https://www.cbc.ca/news/canada/prince-edward-island/pei-2025-big-brothers-big-sisters-cottage-draw-1.7627135
+2025-09-07 12:09:08,155 - INFO - Sentiment: POSITIVE (0.97), Keywords match: False
+2025-09-07 12:09:08,155 - INFO - Skipped (not positive enough): NSW locks in great koala national park and brings in immediate ban on logging - https://www.theguardian.com/australia-news/2025/sep/07/nsw-locks-in-great-koala-national-park-and-brings-in-immediate-ban-on-logging
+2025-09-07 12:09:08,199 - INFO - Sentiment: POSITIVE (0.97), Keywords match: False
+2025-09-07 12:09:08,199 - INFO - Skipped (not positive enough): Verano Energy secures financing for 83MW/660MWh solar-plus-storage project in Chile - https://www.pv-tech.org/verano-energy-secures-financing-for-83mw-660mwh-solar-plus-storage-project-in-chile/
+2025-09-07 12:09:08,207 - INFO - Sentiment: POSITIVE (0.76), Keywords match: False
+2025-09-07 12:09:08,207 - INFO - Skipped (not positive enough): A Pill to Heal the Brain Could Revolutionize Neuroscience - https://www.nytimes.com/2025/09/04/science/neuroscience-brain-injury-pill.html?smid=nytcore-ios-share&referringSource=articleShare
+2025-09-07 12:10:33,872 - INFO - Sentiment: NEGATIVE (0.82), Keywords match: False
+2025-09-07 12:10:33,872 - INFO - Skipped (not positive enough): Scientists develop plastic that dissolves in seawater - https://www.bbc.co.uk/newsround/articles/clygj701l8yo
+2025-09-07 12:10:33,915 - INFO - Sentiment: NEGATIVE (1.00), Keywords match: False
+2025-09-07 12:10:33,915 - INFO - Skipped (not positive enough): ‘HIV-ending’ drug could be made for just $25 per patient a year, say researchers - https://www.theguardian.com/society/2025/jun/17/hiv-ending-drug-lenacapavir-manufacture-cost-per-patient-gilead
+2025-09-07 12:10:33,955 - INFO - Sentiment: NEGATIVE (0.90), Keywords match: False
+2025-09-07 12:10:33,955 - INFO - Skipped (not positive enough): In a medical first, researchers report that they have implanted CRISPR-edited pancreas cells into a person with type 1 diabetes. The cells produced insulin for months — without the need for the recipient to take immune-dampening drugs. - https://www.nature.com/articles/d41586-025-02802-5
+2025-09-07 12:10:33,994 - INFO - Sentiment: NEGATIVE (0.97), Keywords match: False
+2025-09-07 12:10:33,994 - INFO - Skipped (not positive enough): Woman rescued from domestic violence after using hand signal at 7-Eleven - https://local12.com/news/nation-world/john-palumbi-woman-rescued-from-domestic-violence-after-using-hand-signal-at-7-eleven-cincinnati-dilemma-social-public-health-issue-education-learning-without-bail-nonverbal-communication-methods-suspicious-activity-discreet-law-enforcement-relationships
+2025-09-07 12:10:33,994 - INFO - Skipped (already posted): The medical community is thrilled by U.S. support for a 'breakthrough' HIV drug - https://www.npr.org/sections/goats-and-soda/2025/09/04/nx-s1-5527019/hiv-prevention-drug-breakthrough-aids
+2025-09-07 12:10:34,030 - INFO - Sentiment: NEGATIVE (0.97), Keywords match: False
+2025-09-07 12:10:34,030 - INFO - Skipped (not positive enough): 'I had no idea it would snowball this far': Why a Brazilian favela facing eviction decided to go green - https://www.bbc.com/future/article/20250821-why-a-brazilian-favela-facing-eviction-went-green-with-gardening
+2025-09-07 12:10:34,064 - INFO - Sentiment: POSITIVE (0.99), Keywords match: False
+2025-09-07 12:10:34,065 - INFO - Skipped (not positive enough): France Champions Student Wellbeing with a 2025 School Digital Detox, Paving the Way for a Healthier, Phone-Free Generation - https://kbtimes.tech/france-champions-student-wellbeing-with-a-2025-school-digital-detox-paving-the-way-for-a-healthier-phone-free-generation/
+2025-09-07 12:10:34,103 - INFO - Sentiment: POSITIVE (0.87), Keywords match: False
+2025-09-07 12:10:34,104 - INFO - Skipped (not positive enough): Two members of a rock band say they were inspired to launch an anti-bullying campaign following their own challenging experiences at school. - https://www.bbc.co.uk/news/articles/c99mdjp97m0o
+2025-09-07 12:10:34,111 - INFO - Sentiment: POSITIVE (0.74), Keywords match: False
+2025-09-07 12:10:34,111 - INFO - Skipped (not positive enough): 'What are the odds?': P.E.I. man wins new cottage in raffle after house burned down this summer - https://www.cbc.ca/news/canada/prince-edward-island/pei-2025-big-brothers-big-sisters-cottage-draw-1.7627135
+2025-09-07 12:10:34,111 - INFO - Skipped (already posted): Endangered mountain frog breeding program success after years of work - https://www.abc.net.au/news/2025-09-07/endangered-red-yellow-mountain-frogs-breeding-and-release/105739950
+2025-09-07 12:10:34,152 - INFO - Sentiment: NEGATIVE (0.62), Keywords match: False
+2025-09-07 12:10:34,152 - INFO - Skipped (not positive enough): Catholic LGBT pilgrimage to Vatican sparks hopes of greater acceptance - https://www.politico.eu/article/catholic-lgbt-pilgrimage-to-vatican-sparks-hopes-of-greater-acceptance/
+2025-09-07 12:10:34,152 - INFO - Skipped (already posted): An Uplifting Tale of Ageless Achievement: Japan's Kokichi Akuzawa, 102, Conquers Mount Fuji in 2025 for a New World Record - https://kbtimes.tech/an-uplifting-tale-of-ageless-achievement-japans-kokichi-akuzawa-102-conquers-mount-fuji-in-2025-for-a-new-world-record/
+2025-09-07 12:10:34,191 - INFO - Sentiment: NEGATIVE (0.98), Keywords match: False
+2025-09-07 12:10:34,191 - INFO - Skipped (not positive enough): Dog given less than 6 months to live cured of cancer after clinical trial - https://www.fox29.com/news/dog-given-less-than-6-months-live-cured-cancer-after-clinical-trial?link_source=ta_first_comment&taid=68baba80d6085a00012ba273
+2025-09-07 12:10:34,202 - INFO - Sentiment: POSITIVE (0.94), Keywords match: False
+2025-09-07 12:10:34,202 - INFO - Skipped (not positive enough): Microsoft open-sources Bill Gates’ 6502 BASIC from 1978 | Historic interpreter taught millions to program on Commodore and Apple computers. - https://arstechnica.com/gadgets/2025/09/microsoft-open-sources-bill-gates-6502-basic-from-1978/
+2025-09-07 12:10:34,243 - INFO - Sentiment: POSITIVE (0.93), Keywords match: False
+2025-09-07 12:10:34,243 - INFO - Skipped (not positive enough): North Yorkshire Moors Railway 'hires' three new railway kittens - https://www.bbc.co.uk/news/articles/cy0vr1xdx5xo
+2025-09-07 12:10:34,283 - INFO - Sentiment: POSITIVE (0.95), Keywords match: False
+2025-09-07 12:10:34,283 - INFO - Skipped (not positive enough): Sembcorp to build 86MWp floating solar project on Singapore’s Pandan Reservoir - https://www.pv-tech.org/sembcorp-to-build-86mwp-floating-solar-project-on-singapores-pandan-reservoir/
+2025-09-07 12:10:34,326 - INFO - Sentiment: POSITIVE (0.96), Keywords match: False
+2025-09-07 12:10:34,326 - INFO - Skipped (not positive enough): 'What are the odds?': Man wins new cottage in raffle after house burned down this summer - https://www.cbc.ca/news/canada/prince-edward-island/pei-2025-big-brothers-big-sisters-cottage-draw-1.7627135
+2025-09-07 12:10:34,369 - INFO - Sentiment: POSITIVE (0.97), Keywords match: False
+2025-09-07 12:10:34,369 - INFO - Skipped (not positive enough): NSW locks in great koala national park and brings in immediate ban on logging - https://www.theguardian.com/australia-news/2025/sep/07/nsw-locks-in-great-koala-national-park-and-brings-in-immediate-ban-on-logging
+2025-09-07 12:10:34,411 - INFO - Sentiment: POSITIVE (0.97), Keywords match: False
+2025-09-07 12:10:34,411 - INFO - Skipped (not positive enough): Verano Energy secures financing for 83MW/660MWh solar-plus-storage project in Chile - https://www.pv-tech.org/verano-energy-secures-financing-for-83mw-660mwh-solar-plus-storage-project-in-chile/
+2025-09-07 12:10:34,421 - INFO - Sentiment: POSITIVE (0.76), Keywords match: False
+2025-09-07 12:10:34,421 - INFO - Skipped (not positive enough): A Pill to Heal the Brain Could Revolutionize Neuroscience - https://www.nytimes.com/2025/09/04/science/neuroscience-brain-injury-pill.html?smid=nytcore-ios-share&referringSource=articleShare
+2025-09-07 12:19:15,066 - INFO - Sentiment: NEGATIVE (0.82), Keyword matches: 0, Keyword score: 0.00
+2025-09-07 12:19:15,066 - INFO - Checked: Scientists develop plastic that dissolves in seawater - https://www.bbc.co.uk/newsround/articles/clygj701l8yo, Score: 0.00
+2025-09-07 12:19:15,109 - INFO - Sentiment: NEGATIVE (1.00), Keyword matches: 0, Keyword score: 0.00
+2025-09-07 12:19:15,109 - INFO - Checked: ‘HIV-ending’ drug could be made for just $25 per patient a year, say researchers - https://www.theguardian.com/society/2025/jun/17/hiv-ending-drug-lenacapavir-manufacture-cost-per-patient-gilead, Score: 0.00
+2025-09-07 12:19:15,150 - INFO - Sentiment: NEGATIVE (0.90), Keyword matches: 0, Keyword score: 0.00
+2025-09-07 12:19:15,151 - INFO - Checked: In a medical first, researchers report that they have implanted CRISPR-edited pancreas cells into a person with type 1 diabetes. The cells produced insulin for months — without the need for the recipient to take immune-dampening drugs. - https://www.nature.com/articles/d41586-025-02802-5, Score: 0.00
+2025-09-07 12:19:15,189 - INFO - Sentiment: NEGATIVE (0.97), Keyword matches: 0, Keyword score: 0.00
+2025-09-07 12:19:15,189 - INFO - Checked: Woman rescued from domestic violence after using hand signal at 7-Eleven - https://local12.com/news/nation-world/john-palumbi-woman-rescued-from-domestic-violence-after-using-hand-signal-at-7-eleven-cincinnati-dilemma-social-public-health-issue-education-learning-without-bail-nonverbal-communication-methods-suspicious-activity-discreet-law-enforcement-relationships, Score: 0.00
+2025-09-07 12:19:15,189 - INFO - Skipped (already posted): The medical community is thrilled by U.S. support for a 'breakthrough' HIV drug - https://www.npr.org/sections/goats-and-soda/2025/09/04/nx-s1-5527019/hiv-prevention-drug-breakthrough-aids
+2025-09-07 12:19:15,225 - INFO - Sentiment: NEGATIVE (0.97), Keyword matches: 0, Keyword score: 0.00
+2025-09-07 12:19:15,226 - INFO - Checked: 'I had no idea it would snowball this far': Why a Brazilian favela facing eviction decided to go green - https://www.bbc.com/future/article/20250821-why-a-brazilian-favela-facing-eviction-went-green-with-gardening, Score: 0.00
+2025-09-07 12:19:15,265 - INFO - Sentiment: POSITIVE (0.99), Keyword matches: 0, Keyword score: 0.00
+2025-09-07 12:19:15,266 - INFO - Checked: France Champions Student Wellbeing with a 2025 School Digital Detox, Paving the Way for a Healthier, Phone-Free Generation - https://kbtimes.tech/france-champions-student-wellbeing-with-a-2025-school-digital-detox-paving-the-way-for-a-healthier-phone-free-generation/, Score: 0.00
+2025-09-07 12:19:15,302 - INFO - Sentiment: POSITIVE (0.87), Keyword matches: 0, Keyword score: 0.00
+2025-09-07 12:19:15,302 - INFO - Checked: Two members of a rock band say they were inspired to launch an anti-bullying campaign following their own challenging experiences at school. - https://www.bbc.co.uk/news/articles/c99mdjp97m0o, Score: 0.00
+2025-09-07 12:19:15,312 - INFO - Sentiment: POSITIVE (0.74), Keyword matches: 0, Keyword score: 0.00
+2025-09-07 12:19:15,312 - INFO - Checked: 'What are the odds?': P.E.I. man wins new cottage in raffle after house burned down this summer - https://www.cbc.ca/news/canada/prince-edward-island/pei-2025-big-brothers-big-sisters-cottage-draw-1.7627135, Score: 0.00
+2025-09-07 12:19:15,312 - INFO - Skipped (already posted): Endangered mountain frog breeding program success after years of work - https://www.abc.net.au/news/2025-09-07/endangered-red-yellow-mountain-frogs-breeding-and-release/105739950
+2025-09-07 12:19:15,359 - INFO - Sentiment: NEGATIVE (0.62), Keyword matches: 0, Keyword score: 0.00
+2025-09-07 12:19:15,359 - INFO - Checked: Catholic LGBT pilgrimage to Vatican sparks hopes of greater acceptance - https://www.politico.eu/article/catholic-lgbt-pilgrimage-to-vatican-sparks-hopes-of-greater-acceptance/, Score: 0.00
+2025-09-07 12:19:15,359 - INFO - Skipped (already posted): An Uplifting Tale of Ageless Achievement: Japan's Kokichi Akuzawa, 102, Conquers Mount Fuji in 2025 for a New World Record - https://kbtimes.tech/an-uplifting-tale-of-ageless-achievement-japans-kokichi-akuzawa-102-conquers-mount-fuji-in-2025-for-a-new-world-record/
+2025-09-07 12:19:15,399 - INFO - Sentiment: NEGATIVE (0.98), Keyword matches: 0, Keyword score: 0.00
+2025-09-07 12:19:15,399 - INFO - Checked: Dog given less than 6 months to live cured of cancer after clinical trial - https://www.fox29.com/news/dog-given-less-than-6-months-live-cured-cancer-after-clinical-trial?link_source=ta_first_comment&taid=68baba80d6085a00012ba273, Score: 0.00
+2025-09-07 12:19:15,408 - INFO - Sentiment: POSITIVE (0.94), Keyword matches: 0, Keyword score: 0.00
+2025-09-07 12:19:15,408 - INFO - Checked: Microsoft open-sources Bill Gates’ 6502 BASIC from 1978 | Historic interpreter taught millions to program on Commodore and Apple computers. - https://arstechnica.com/gadgets/2025/09/microsoft-open-sources-bill-gates-6502-basic-from-1978/, Score: 0.00
+2025-09-07 12:19:15,456 - INFO - Sentiment: POSITIVE (0.93), Keyword matches: 0, Keyword score: 0.00
+2025-09-07 12:19:15,456 - INFO - Checked: North Yorkshire Moors Railway 'hires' three new railway kittens - https://www.bbc.co.uk/news/articles/cy0vr1xdx5xo, Score: 0.00
+2025-09-07 12:19:15,497 - INFO - Sentiment: POSITIVE (0.95), Keyword matches: 0, Keyword score: 0.00
+2025-09-07 12:19:15,497 - INFO - Checked: Sembcorp to build 86MWp floating solar project on Singapore’s Pandan Reservoir - https://www.pv-tech.org/sembcorp-to-build-86mwp-floating-solar-project-on-singapores-pandan-reservoir/, Score: 0.00
+2025-09-07 12:19:15,540 - INFO - Sentiment: POSITIVE (0.96), Keyword matches: 0, Keyword score: 0.00
+2025-09-07 12:19:15,540 - INFO - Checked: 'What are the odds?': Man wins new cottage in raffle after house burned down this summer - https://www.cbc.ca/news/canada/prince-edward-island/pei-2025-big-brothers-big-sisters-cottage-draw-1.7627135, Score: 0.00
+2025-09-07 12:19:15,581 - INFO - Sentiment: POSITIVE (0.97), Keyword matches: 0, Keyword score: 0.00
+2025-09-07 12:19:15,581 - INFO - Checked: NSW locks in great koala national park and brings in immediate ban on logging - https://www.theguardian.com/australia-news/2025/sep/07/nsw-locks-in-great-koala-national-park-and-brings-in-immediate-ban-on-logging, Score: 0.00
+2025-09-07 12:19:15,624 - INFO - Sentiment: POSITIVE (0.97), Keyword matches: 0, Keyword score: 0.00
+2025-09-07 12:19:15,624 - INFO - Checked: Verano Energy secures financing for 83MW/660MWh solar-plus-storage project in Chile - https://www.pv-tech.org/verano-energy-secures-financing-for-83mw-660mwh-solar-plus-storage-project-in-chile/, Score: 0.00
+2025-09-07 12:19:15,633 - INFO - Sentiment: POSITIVE (0.76), Keyword matches: 0, Keyword score: 0.00
+2025-09-07 12:19:15,633 - INFO - Checked: A Pill to Heal the Brain Could Revolutionize Neuroscience - https://www.nytimes.com/2025/09/04/science/neuroscience-brain-injury-pill.html?smid=nytcore-ios-share&referringSource=articleShare, Score: 0.00
+2025-09-07 12:19:15,633 - INFO - No suitable positive story found.
+2025-09-07 12:28:24,427 - INFO - Sentiment: NEGATIVE (0.82), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:29:23,705 - INFO - Sentiment: NEGATIVE (0.82), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:29:23,705 - INFO - Checked: Scientists develop plastic that dissolves in seawater - https://www.bbc.co.uk/newsround/articles/clygj701l8yo, Score: 0.00
+2025-09-07 12:29:23,750 - INFO - Sentiment: NEGATIVE (1.00), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:29:23,750 - INFO - Checked: ‘HIV-ending’ drug could be made for just $25 per patient a year, say researchers - https://www.theguardian.com/society/2025/jun/17/hiv-ending-drug-lenacapavir-manufacture-cost-per-patient-gilead, Score: 0.00
+2025-09-07 12:29:23,789 - INFO - Sentiment: NEGATIVE (0.90), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:29:23,789 - INFO - Checked: In a medical first, researchers report that they have implanted CRISPR-edited pancreas cells into a person with type 1 diabetes. The cells produced insulin for months — without the need for the recipient to take immune-dampening drugs. - https://www.nature.com/articles/d41586-025-02802-5, Score: 0.00
+2025-09-07 12:29:23,834 - INFO - Sentiment: NEGATIVE (0.97), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:29:23,834 - INFO - Checked: Woman rescued from domestic violence after using hand signal at 7-Eleven - https://local12.com/news/nation-world/john-palumbi-woman-rescued-from-domestic-violence-after-using-hand-signal-at-7-eleven-cincinnati-dilemma-social-public-health-issue-education-learning-without-bail-nonverbal-communication-methods-suspicious-activity-discreet-law-enforcement-relationships, Score: 0.00
+2025-09-07 12:29:23,834 - INFO - Skipped (already posted): The medical community is thrilled by U.S. support for a 'breakthrough' HIV drug - https://www.npr.org/sections/goats-and-soda/2025/09/04/nx-s1-5527019/hiv-prevention-drug-breakthrough-aids
+2025-09-07 12:29:23,868 - INFO - Sentiment: NEGATIVE (0.97), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:29:23,868 - INFO - Checked: 'I had no idea it would snowball this far': Why a Brazilian favela facing eviction decided to go green - https://www.bbc.com/future/article/20250821-why-a-brazilian-favela-facing-eviction-went-green-with-gardening, Score: 0.00
+2025-09-07 12:29:23,906 - INFO - Sentiment: POSITIVE (0.99), Keyword matches: 0, Keyword score: 0.00, Total score: 0.99
+2025-09-07 12:30:08,545 - INFO - Sentiment: NEGATIVE (0.82), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:30:08,546 - INFO - Checked: Scientists develop plastic that dissolves in seawater - https://www.bbc.co.uk/newsround/articles/clygj701l8yo, Score: 0.00
+2025-09-07 12:30:08,590 - INFO - Sentiment: NEGATIVE (1.00), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:30:08,590 - INFO - Checked: ‘HIV-ending’ drug could be made for just $25 per patient a year, say researchers - https://www.theguardian.com/society/2025/jun/17/hiv-ending-drug-lenacapavir-manufacture-cost-per-patient-gilead, Score: 0.00
+2025-09-07 12:30:08,631 - INFO - Sentiment: NEGATIVE (0.90), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:30:08,631 - INFO - Checked: In a medical first, researchers report that they have implanted CRISPR-edited pancreas cells into a person with type 1 diabetes. The cells produced insulin for months — without the need for the recipient to take immune-dampening drugs. - https://www.nature.com/articles/d41586-025-02802-5, Score: 0.00
+2025-09-07 12:30:08,670 - INFO - Sentiment: NEGATIVE (0.97), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:30:08,670 - INFO - Checked: Woman rescued from domestic violence after using hand signal at 7-Eleven - https://local12.com/news/nation-world/john-palumbi-woman-rescued-from-domestic-violence-after-using-hand-signal-at-7-eleven-cincinnati-dilemma-social-public-health-issue-education-learning-without-bail-nonverbal-communication-methods-suspicious-activity-discreet-law-enforcement-relationships, Score: 0.00
+2025-09-07 12:30:08,670 - INFO - Skipped (already posted): The medical community is thrilled by U.S. support for a 'breakthrough' HIV drug - https://www.npr.org/sections/goats-and-soda/2025/09/04/nx-s1-5527019/hiv-prevention-drug-breakthrough-aids
+2025-09-07 12:30:08,710 - INFO - Sentiment: NEGATIVE (0.97), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:30:08,710 - INFO - Checked: 'I had no idea it would snowball this far': Why a Brazilian favela facing eviction decided to go green - https://www.bbc.com/future/article/20250821-why-a-brazilian-favela-facing-eviction-went-green-with-gardening, Score: 0.00
+2025-09-07 12:30:08,748 - INFO - Sentiment: POSITIVE (0.99), Keyword matches: 0, Keyword score: 0.00, Total score: 0.99
+2025-09-07 12:30:08,748 - INFO - Checked: France Champions Student Wellbeing with a 2025 School Digital Detox, Paving the Way for a Healthier, Phone-Free Generation - https://kbtimes.tech/france-champions-student-wellbeing-with-a-2025-school-digital-detox-paving-the-way-for-a-healthier-phone-free-generation/, Score: 0.99
+2025-09-07 12:30:08,786 - INFO - Sentiment: POSITIVE (0.87), Keyword matches: 0, Keyword score: 0.00, Total score: 0.87
+2025-09-07 12:30:08,786 - INFO - Checked: Two members of a rock band say they were inspired to launch an anti-bullying campaign following their own challenging experiences at school. - https://www.bbc.co.uk/news/articles/c99mdjp97m0o, Score: 0.87
+2025-09-07 12:30:08,786 - INFO - Skipped (already posted): Endangered mountain frog breeding program success after years of work - https://www.abc.net.au/news/2025-09-07/endangered-red-yellow-mountain-frogs-breeding-and-release/105739950
+2025-09-07 12:30:08,796 - INFO - Sentiment: POSITIVE (0.74), Keyword matches: 0, Keyword score: 0.00, Total score: 0.74
+2025-09-07 12:30:08,796 - INFO - Checked: 'What are the odds?': P.E.I. man wins new cottage in raffle after house burned down this summer - https://www.cbc.ca/news/canada/prince-edward-island/pei-2025-big-brothers-big-sisters-cottage-draw-1.7627135, Score: 0.74
+2025-09-07 12:30:08,839 - INFO - Sentiment: NEGATIVE (0.62), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:30:08,839 - INFO - Checked: Catholic LGBT pilgrimage to Vatican sparks hopes of greater acceptance - https://www.politico.eu/article/catholic-lgbt-pilgrimage-to-vatican-sparks-hopes-of-greater-acceptance/, Score: 0.00
+2025-09-07 12:30:08,839 - INFO - Skipped (already posted): An Uplifting Tale of Ageless Achievement: Japan's Kokichi Akuzawa, 102, Conquers Mount Fuji in 2025 for a New World Record - https://kbtimes.tech/an-uplifting-tale-of-ageless-achievement-japans-kokichi-akuzawa-102-conquers-mount-fuji-in-2025-for-a-new-world-record/
+2025-09-07 12:30:08,879 - INFO - Sentiment: NEGATIVE (0.98), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:30:08,879 - INFO - Checked: Dog given less than 6 months to live cured of cancer after clinical trial - https://www.fox29.com/news/dog-given-less-than-6-months-live-cured-cancer-after-clinical-trial?link_source=ta_first_comment&taid=68baba80d6085a00012ba273, Score: 0.00
+2025-09-07 12:30:08,924 - INFO - Sentiment: POSITIVE (0.93), Keyword matches: 0, Keyword score: 0.00, Total score: 0.93
+2025-09-07 12:30:08,924 - INFO - Checked: North Yorkshire Moors Railway 'hires' three new railway kittens - https://www.bbc.co.uk/news/articles/cy0vr1xdx5xo, Score: 0.93
+2025-09-07 12:30:08,931 - INFO - Sentiment: POSITIVE (0.94), Keyword matches: 0, Keyword score: 0.00, Total score: 0.94
+2025-09-07 12:30:08,931 - INFO - Checked: Microsoft open-sources Bill Gates’ 6502 BASIC from 1978 | Historic interpreter taught millions to program on Commodore and Apple computers. - https://arstechnica.com/gadgets/2025/09/microsoft-open-sources-bill-gates-6502-basic-from-1978/, Score: 0.94
+2025-09-07 12:30:08,970 - INFO - Sentiment: POSITIVE (0.95), Keyword matches: 0, Keyword score: 0.00, Total score: 0.95
+2025-09-07 12:30:08,970 - INFO - Checked: Sembcorp to build 86MWp floating solar project on Singapore’s Pandan Reservoir - https://www.pv-tech.org/sembcorp-to-build-86mwp-floating-solar-project-on-singapores-pandan-reservoir/, Score: 0.95
+2025-09-07 12:30:09,011 - INFO - Sentiment: POSITIVE (0.96), Keyword matches: 0, Keyword score: 0.00, Total score: 0.96
+2025-09-07 12:30:09,011 - INFO - Checked: 'What are the odds?': Man wins new cottage in raffle after house burned down this summer - https://www.cbc.ca/news/canada/prince-edward-island/pei-2025-big-brothers-big-sisters-cottage-draw-1.7627135, Score: 0.96
+2025-09-07 12:30:09,054 - INFO - Sentiment: POSITIVE (0.97), Keyword matches: 0, Keyword score: 0.00, Total score: 0.97
+2025-09-07 12:30:09,054 - INFO - Checked: NSW locks in great koala national park and brings in immediate ban on logging - https://www.theguardian.com/australia-news/2025/sep/07/nsw-locks-in-great-koala-national-park-and-brings-in-immediate-ban-on-logging, Score: 0.97
+2025-09-07 12:30:09,097 - INFO - Sentiment: POSITIVE (0.97), Keyword matches: 0, Keyword score: 0.00, Total score: 0.97
+2025-09-07 12:30:09,097 - INFO - Checked: Verano Energy secures financing for 83MW/660MWh solar-plus-storage project in Chile - https://www.pv-tech.org/verano-energy-secures-financing-for-83mw-660mwh-solar-plus-storage-project-in-chile/, Score: 0.97
+2025-09-07 12:30:09,108 - INFO - Sentiment: POSITIVE (1.00), Keyword matches: 0, Keyword score: 0.00, Total score: 1.00
+2025-09-07 12:30:09,108 - INFO - Checked: How romance and a road trip led to the purchase of the world's oldest drive-in theater - https://www.aol.com/romance-road-trip-led-purchase-114637838.html, Score: 1.00
+2025-09-07 12:30:09,108 - INFO - Would post (score 1.00): How romance and a road trip led to the purchase of the world's oldest drive-in theater - https://www.aol.com/romance-road-trip-led-purchase-114637838.html
+2025-09-07 12:31:45,873 - INFO - Sentiment: NEGATIVE (0.82), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:31:45,873 - INFO - Checked: Scientists develop plastic that dissolves in seawater - https://www.bbc.co.uk/newsround/articles/clygj701l8yo, Score: 0.00
+2025-09-07 12:31:45,914 - INFO - Sentiment: NEGATIVE (1.00), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:31:45,914 - INFO - Checked: ‘HIV-ending’ drug could be made for just $25 per patient a year, say researchers - https://www.theguardian.com/society/2025/jun/17/hiv-ending-drug-lenacapavir-manufacture-cost-per-patient-gilead, Score: 0.00
+2025-09-07 12:31:45,953 - INFO - Sentiment: NEGATIVE (0.90), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:31:45,953 - INFO - Checked: In a medical first, researchers report that they have implanted CRISPR-edited pancreas cells into a person with type 1 diabetes. The cells produced insulin for months — without the need for the recipient to take immune-dampening drugs. - https://www.nature.com/articles/d41586-025-02802-5, Score: 0.00
+2025-09-07 12:31:45,996 - INFO - Sentiment: NEGATIVE (0.97), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:31:45,996 - INFO - Checked: Woman rescued from domestic violence after using hand signal at 7-Eleven - https://local12.com/news/nation-world/john-palumbi-woman-rescued-from-domestic-violence-after-using-hand-signal-at-7-eleven-cincinnati-dilemma-social-public-health-issue-education-learning-without-bail-nonverbal-communication-methods-suspicious-activity-discreet-law-enforcement-relationships, Score: 0.00
+2025-09-07 12:31:45,996 - INFO - Skipped (already posted): The medical community is thrilled by U.S. support for a 'breakthrough' HIV drug - https://www.npr.org/sections/goats-and-soda/2025/09/04/nx-s1-5527019/hiv-prevention-drug-breakthrough-aids
+2025-09-07 12:31:46,030 - INFO - Sentiment: NEGATIVE (0.97), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:31:46,030 - INFO - Checked: 'I had no idea it would snowball this far': Why a Brazilian favela facing eviction decided to go green - https://www.bbc.com/future/article/20250821-why-a-brazilian-favela-facing-eviction-went-green-with-gardening, Score: 0.00
+2025-09-07 12:31:46,067 - INFO - Sentiment: POSITIVE (0.99), Keyword matches: 0, Keyword score: 0.00, Total score: 0.99
+2025-09-07 12:31:46,067 - INFO - Checked: France Champions Student Wellbeing with a 2025 School Digital Detox, Paving the Way for a Healthier, Phone-Free Generation - https://kbtimes.tech/france-champions-student-wellbeing-with-a-2025-school-digital-detox-paving-the-way-for-a-healthier-phone-free-generation/, Score: 0.99
+2025-09-07 12:31:46,104 - INFO - Sentiment: POSITIVE (0.87), Keyword matches: 0, Keyword score: 0.00, Total score: 0.87
+2025-09-07 12:31:46,104 - INFO - Checked: Two members of a rock band say they were inspired to launch an anti-bullying campaign following their own challenging experiences at school. - https://www.bbc.co.uk/news/articles/c99mdjp97m0o, Score: 0.87
+2025-09-07 12:31:46,104 - INFO - Skipped (already posted): Endangered mountain frog breeding program success after years of work - https://www.abc.net.au/news/2025-09-07/endangered-red-yellow-mountain-frogs-breeding-and-release/105739950
+2025-09-07 12:31:46,115 - INFO - Sentiment: POSITIVE (0.74), Keyword matches: 0, Keyword score: 0.00, Total score: 0.74
+2025-09-07 12:31:46,115 - INFO - Checked: 'What are the odds?': P.E.I. man wins new cottage in raffle after house burned down this summer - https://www.cbc.ca/news/canada/prince-edward-island/pei-2025-big-brothers-big-sisters-cottage-draw-1.7627135, Score: 0.74
+2025-09-07 12:31:46,158 - INFO - Sentiment: NEGATIVE (0.62), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:31:46,158 - INFO - Checked: Catholic LGBT pilgrimage to Vatican sparks hopes of greater acceptance - https://www.politico.eu/article/catholic-lgbt-pilgrimage-to-vatican-sparks-hopes-of-greater-acceptance/, Score: 0.00
+2025-09-07 12:31:46,158 - INFO - Skipped (already posted): An Uplifting Tale of Ageless Achievement: Japan's Kokichi Akuzawa, 102, Conquers Mount Fuji in 2025 for a New World Record - https://kbtimes.tech/an-uplifting-tale-of-ageless-achievement-japans-kokichi-akuzawa-102-conquers-mount-fuji-in-2025-for-a-new-world-record/
+2025-09-07 12:31:46,198 - INFO - Sentiment: NEGATIVE (0.98), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:31:46,198 - INFO - Checked: Dog given less than 6 months to live cured of cancer after clinical trial - https://www.fox29.com/news/dog-given-less-than-6-months-live-cured-cancer-after-clinical-trial?link_source=ta_first_comment&taid=68baba80d6085a00012ba273, Score: 0.00
+2025-09-07 12:31:46,240 - INFO - Sentiment: POSITIVE (0.93), Keyword matches: 0, Keyword score: 0.00, Total score: 0.93
+2025-09-07 12:31:46,240 - INFO - Checked: North Yorkshire Moors Railway 'hires' three new railway kittens - https://www.bbc.co.uk/news/articles/cy0vr1xdx5xo, Score: 0.93
+2025-09-07 12:31:46,248 - INFO - Sentiment: POSITIVE (0.94), Keyword matches: 0, Keyword score: 0.00, Total score: 0.94
+2025-09-07 12:31:46,248 - INFO - Checked: Microsoft open-sources Bill Gates’ 6502 BASIC from 1978 | Historic interpreter taught millions to program on Commodore and Apple computers. - https://arstechnica.com/gadgets/2025/09/microsoft-open-sources-bill-gates-6502-basic-from-1978/, Score: 0.94
+2025-09-07 12:31:46,287 - INFO - Sentiment: POSITIVE (0.95), Keyword matches: 0, Keyword score: 0.00, Total score: 0.95
+2025-09-07 12:31:46,287 - INFO - Checked: Sembcorp to build 86MWp floating solar project on Singapore’s Pandan Reservoir - https://www.pv-tech.org/sembcorp-to-build-86mwp-floating-solar-project-on-singapores-pandan-reservoir/, Score: 0.95
+2025-09-07 12:31:46,328 - INFO - Sentiment: POSITIVE (0.96), Keyword matches: 0, Keyword score: 0.00, Total score: 0.96
+2025-09-07 12:31:46,328 - INFO - Checked: 'What are the odds?': Man wins new cottage in raffle after house burned down this summer - https://www.cbc.ca/news/canada/prince-edward-island/pei-2025-big-brothers-big-sisters-cottage-draw-1.7627135, Score: 0.96
+2025-09-07 12:31:46,370 - INFO - Sentiment: POSITIVE (0.97), Keyword matches: 0, Keyword score: 0.00, Total score: 0.97
+2025-09-07 12:31:46,370 - INFO - Checked: NSW locks in great koala national park and brings in immediate ban on logging - https://www.theguardian.com/australia-news/2025/sep/07/nsw-locks-in-great-koala-national-park-and-brings-in-immediate-ban-on-logging, Score: 0.97
+2025-09-07 12:31:46,412 - INFO - Sentiment: POSITIVE (0.97), Keyword matches: 0, Keyword score: 0.00, Total score: 0.97
+2025-09-07 12:31:46,412 - INFO - Checked: Verano Energy secures financing for 83MW/660MWh solar-plus-storage project in Chile - https://www.pv-tech.org/verano-energy-secures-financing-for-83mw-660mwh-solar-plus-storage-project-in-chile/, Score: 0.97
+2025-09-07 12:31:46,412 - INFO - Skipped (already posted): How romance and a road trip led to the purchase of the world's oldest drive-in theater - https://www.aol.com/romance-road-trip-led-purchase-114637838.html
+2025-09-07 12:31:46,412 - INFO - Would post (score 0.97): Verano Energy secures financing for 83MW/660MWh solar-plus-storage project in Chile - https://www.pv-tech.org/verano-energy-secures-financing-for-83mw-660mwh-solar-plus-storage-project-in-chile/
+2025-09-07 12:32:41,243 - INFO - Sentiment: NEGATIVE (0.82), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:32:41,243 - INFO - Checked: Scientists develop plastic that dissolves in seawater - https://www.bbc.co.uk/newsround/articles/clygj701l8yo, Score: 0.00
+2025-09-07 12:32:41,283 - INFO - Sentiment: NEGATIVE (1.00), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:32:41,283 - INFO - Checked: ‘HIV-ending’ drug could be made for just $25 per patient a year, say researchers - https://www.theguardian.com/society/2025/jun/17/hiv-ending-drug-lenacapavir-manufacture-cost-per-patient-gilead, Score: 0.00
+2025-09-07 12:32:41,324 - INFO - Sentiment: NEGATIVE (0.90), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:32:41,324 - INFO - Checked: In a medical first, researchers report that they have implanted CRISPR-edited pancreas cells into a person with type 1 diabetes. The cells produced insulin for months — without the need for the recipient to take immune-dampening drugs. - https://www.nature.com/articles/d41586-025-02802-5, Score: 0.00
+2025-09-07 12:32:41,364 - INFO - Sentiment: NEGATIVE (0.97), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:32:41,364 - INFO - Checked: Woman rescued from domestic violence after using hand signal at 7-Eleven - https://local12.com/news/nation-world/john-palumbi-woman-rescued-from-domestic-violence-after-using-hand-signal-at-7-eleven-cincinnati-dilemma-social-public-health-issue-education-learning-without-bail-nonverbal-communication-methods-suspicious-activity-discreet-law-enforcement-relationships, Score: 0.00
+2025-09-07 12:32:41,364 - INFO - Skipped (already posted): The medical community is thrilled by U.S. support for a 'breakthrough' HIV drug - https://www.npr.org/sections/goats-and-soda/2025/09/04/nx-s1-5527019/hiv-prevention-drug-breakthrough-aids
+2025-09-07 12:32:41,399 - INFO - Sentiment: NEGATIVE (0.97), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:32:41,399 - INFO - Checked: 'I had no idea it would snowball this far': Why a Brazilian favela facing eviction decided to go green - https://www.bbc.com/future/article/20250821-why-a-brazilian-favela-facing-eviction-went-green-with-gardening, Score: 0.00
+2025-09-07 12:32:41,434 - INFO - Sentiment: POSITIVE (0.99), Keyword matches: 0, Keyword score: 0.00, Total score: 0.99
+2025-09-07 12:32:41,434 - INFO - Checked: France Champions Student Wellbeing with a 2025 School Digital Detox, Paving the Way for a Healthier, Phone-Free Generation - https://kbtimes.tech/france-champions-student-wellbeing-with-a-2025-school-digital-detox-paving-the-way-for-a-healthier-phone-free-generation/, Score: 0.99
+2025-09-07 12:32:41,471 - INFO - Sentiment: POSITIVE (0.87), Keyword matches: 0, Keyword score: 0.00, Total score: 0.87
+2025-09-07 12:32:41,471 - INFO - Checked: Two members of a rock band say they were inspired to launch an anti-bullying campaign following their own challenging experiences at school. - https://www.bbc.co.uk/news/articles/c99mdjp97m0o, Score: 0.87
+2025-09-07 12:32:41,471 - INFO - Skipped (already posted): Endangered mountain frog breeding program success after years of work - https://www.abc.net.au/news/2025-09-07/endangered-red-yellow-mountain-frogs-breeding-and-release/105739950
+2025-09-07 12:32:41,482 - INFO - Sentiment: POSITIVE (0.74), Keyword matches: 0, Keyword score: 0.00, Total score: 0.74
+2025-09-07 12:32:41,482 - INFO - Checked: 'What are the odds?': P.E.I. man wins new cottage in raffle after house burned down this summer - https://www.cbc.ca/news/canada/prince-edward-island/pei-2025-big-brothers-big-sisters-cottage-draw-1.7627135, Score: 0.74
+2025-09-07 12:32:41,520 - INFO - Sentiment: NEGATIVE (0.62), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:32:41,520 - INFO - Checked: Catholic LGBT pilgrimage to Vatican sparks hopes of greater acceptance - https://www.politico.eu/article/catholic-lgbt-pilgrimage-to-vatican-sparks-hopes-of-greater-acceptance/, Score: 0.00
+2025-09-07 12:32:41,520 - INFO - Skipped (already posted): An Uplifting Tale of Ageless Achievement: Japan's Kokichi Akuzawa, 102, Conquers Mount Fuji in 2025 for a New World Record - https://kbtimes.tech/an-uplifting-tale-of-ageless-achievement-japans-kokichi-akuzawa-102-conquers-mount-fuji-in-2025-for-a-new-world-record/
+2025-09-07 12:32:41,557 - INFO - Sentiment: NEGATIVE (0.98), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:32:41,557 - INFO - Checked: Dog given less than 6 months to live cured of cancer after clinical trial - https://www.fox29.com/news/dog-given-less-than-6-months-live-cured-cancer-after-clinical-trial?link_source=ta_first_comment&taid=68baba80d6085a00012ba273, Score: 0.00
+2025-09-07 12:32:41,600 - INFO - Sentiment: POSITIVE (0.93), Keyword matches: 0, Keyword score: 0.00, Total score: 0.93
+2025-09-07 12:32:41,600 - INFO - Checked: North Yorkshire Moors Railway 'hires' three new railway kittens - https://www.bbc.co.uk/news/articles/cy0vr1xdx5xo, Score: 0.93
+2025-09-07 12:32:41,607 - INFO - Sentiment: POSITIVE (0.94), Keyword matches: 0, Keyword score: 0.00, Total score: 0.94
+2025-09-07 12:32:41,607 - INFO - Checked: Microsoft open-sources Bill Gates’ 6502 BASIC from 1978 | Historic interpreter taught millions to program on Commodore and Apple computers. - https://arstechnica.com/gadgets/2025/09/microsoft-open-sources-bill-gates-6502-basic-from-1978/, Score: 0.94
+2025-09-07 12:32:41,645 - INFO - Sentiment: POSITIVE (0.95), Keyword matches: 0, Keyword score: 0.00, Total score: 0.95
+2025-09-07 12:32:41,645 - INFO - Checked: Sembcorp to build 86MWp floating solar project on Singapore’s Pandan Reservoir - https://www.pv-tech.org/sembcorp-to-build-86mwp-floating-solar-project-on-singapores-pandan-reservoir/, Score: 0.95
+2025-09-07 12:32:41,681 - INFO - Sentiment: POSITIVE (0.96), Keyword matches: 0, Keyword score: 0.00, Total score: 0.96
+2025-09-07 12:32:41,681 - INFO - Checked: 'What are the odds?': Man wins new cottage in raffle after house burned down this summer - https://www.cbc.ca/news/canada/prince-edward-island/pei-2025-big-brothers-big-sisters-cottage-draw-1.7627135, Score: 0.96
+2025-09-07 12:32:41,722 - INFO - Sentiment: POSITIVE (0.97), Keyword matches: 0, Keyword score: 0.00, Total score: 0.97
+2025-09-07 12:32:41,723 - INFO - Checked: NSW locks in great koala national park and brings in immediate ban on logging - https://www.theguardian.com/australia-news/2025/sep/07/nsw-locks-in-great-koala-national-park-and-brings-in-immediate-ban-on-logging, Score: 0.97
+2025-09-07 12:32:41,723 - INFO - Skipped (already posted): Verano Energy secures financing for 83MW/660MWh solar-plus-storage project in Chile - https://www.pv-tech.org/verano-energy-secures-financing-for-83mw-660mwh-solar-plus-storage-project-in-chile/
+2025-09-07 12:32:41,723 - INFO - Skipped (already posted): How romance and a road trip led to the purchase of the world's oldest drive-in theater - https://www.aol.com/romance-road-trip-led-purchase-114637838.html
+2025-09-07 12:32:41,723 - INFO - Would post (score 0.97): NSW locks in great koala national park and brings in immediate ban on logging - https://www.theguardian.com/australia-news/2025/sep/07/nsw-locks-in-great-koala-national-park-and-brings-in-immediate-ban-on-logging
+2025-09-07 12:32:55,009 - INFO - Sentiment: NEGATIVE (0.82), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:32:55,009 - INFO - Checked: Scientists develop plastic that dissolves in seawater - https://www.bbc.co.uk/newsround/articles/clygj701l8yo, Score: 0.00
+2025-09-07 12:32:55,053 - INFO - Sentiment: NEGATIVE (1.00), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:32:55,053 - INFO - Checked: ‘HIV-ending’ drug could be made for just $25 per patient a year, say researchers - https://www.theguardian.com/society/2025/jun/17/hiv-ending-drug-lenacapavir-manufacture-cost-per-patient-gilead, Score: 0.00
+2025-09-07 12:32:55,092 - INFO - Sentiment: NEGATIVE (0.90), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:32:55,092 - INFO - Checked: In a medical first, researchers report that they have implanted CRISPR-edited pancreas cells into a person with type 1 diabetes. The cells produced insulin for months — without the need for the recipient to take immune-dampening drugs. - https://www.nature.com/articles/d41586-025-02802-5, Score: 0.00
+2025-09-07 12:32:55,133 - INFO - Sentiment: NEGATIVE (0.97), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:32:55,133 - INFO - Checked: Woman rescued from domestic violence after using hand signal at 7-Eleven - https://local12.com/news/nation-world/john-palumbi-woman-rescued-from-domestic-violence-after-using-hand-signal-at-7-eleven-cincinnati-dilemma-social-public-health-issue-education-learning-without-bail-nonverbal-communication-methods-suspicious-activity-discreet-law-enforcement-relationships, Score: 0.00
+2025-09-07 12:32:55,134 - INFO - Skipped (already posted): The medical community is thrilled by U.S. support for a 'breakthrough' HIV drug - https://www.npr.org/sections/goats-and-soda/2025/09/04/nx-s1-5527019/hiv-prevention-drug-breakthrough-aids
+2025-09-07 12:32:55,166 - INFO - Sentiment: NEGATIVE (0.97), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:32:55,167 - INFO - Checked: 'I had no idea it would snowball this far': Why a Brazilian favela facing eviction decided to go green - https://www.bbc.com/future/article/20250821-why-a-brazilian-favela-facing-eviction-went-green-with-gardening, Score: 0.00
+2025-09-07 12:32:55,201 - INFO - Sentiment: POSITIVE (0.99), Keyword matches: 0, Keyword score: 0.00, Total score: 0.99
+2025-09-07 12:32:55,201 - INFO - Checked: France Champions Student Wellbeing with a 2025 School Digital Detox, Paving the Way for a Healthier, Phone-Free Generation - https://kbtimes.tech/france-champions-student-wellbeing-with-a-2025-school-digital-detox-paving-the-way-for-a-healthier-phone-free-generation/, Score: 0.99
+2025-09-07 12:32:55,238 - INFO - Sentiment: POSITIVE (0.87), Keyword matches: 0, Keyword score: 0.00, Total score: 0.87
+2025-09-07 12:32:55,238 - INFO - Checked: Two members of a rock band say they were inspired to launch an anti-bullying campaign following their own challenging experiences at school. - https://www.bbc.co.uk/news/articles/c99mdjp97m0o, Score: 0.87
+2025-09-07 12:32:55,238 - INFO - Skipped (already posted): Endangered mountain frog breeding program success after years of work - https://www.abc.net.au/news/2025-09-07/endangered-red-yellow-mountain-frogs-breeding-and-release/105739950
+2025-09-07 12:32:55,246 - INFO - Sentiment: POSITIVE (0.74), Keyword matches: 0, Keyword score: 0.00, Total score: 0.74
+2025-09-07 12:32:55,246 - INFO - Checked: 'What are the odds?': P.E.I. man wins new cottage in raffle after house burned down this summer - https://www.cbc.ca/news/canada/prince-edward-island/pei-2025-big-brothers-big-sisters-cottage-draw-1.7627135, Score: 0.74
+2025-09-07 12:32:55,290 - INFO - Sentiment: NEGATIVE (0.62), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:32:55,290 - INFO - Checked: Catholic LGBT pilgrimage to Vatican sparks hopes of greater acceptance - https://www.politico.eu/article/catholic-lgbt-pilgrimage-to-vatican-sparks-hopes-of-greater-acceptance/, Score: 0.00
+2025-09-07 12:32:55,290 - INFO - Skipped (already posted): An Uplifting Tale of Ageless Achievement: Japan's Kokichi Akuzawa, 102, Conquers Mount Fuji in 2025 for a New World Record - https://kbtimes.tech/an-uplifting-tale-of-ageless-achievement-japans-kokichi-akuzawa-102-conquers-mount-fuji-in-2025-for-a-new-world-record/
+2025-09-07 12:32:55,330 - INFO - Sentiment: NEGATIVE (0.98), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:32:55,330 - INFO - Checked: Dog given less than 6 months to live cured of cancer after clinical trial - https://www.fox29.com/news/dog-given-less-than-6-months-live-cured-cancer-after-clinical-trial?link_source=ta_first_comment&taid=68baba80d6085a00012ba273, Score: 0.00
+2025-09-07 12:32:55,375 - INFO - Sentiment: POSITIVE (0.93), Keyword matches: 0, Keyword score: 0.00, Total score: 0.93
+2025-09-07 12:32:55,375 - INFO - Checked: North Yorkshire Moors Railway 'hires' three new railway kittens - https://www.bbc.co.uk/news/articles/cy0vr1xdx5xo, Score: 0.93
+2025-09-07 12:32:55,382 - INFO - Sentiment: POSITIVE (0.94), Keyword matches: 0, Keyword score: 0.00, Total score: 0.94
+2025-09-07 12:32:55,382 - INFO - Checked: Microsoft open-sources Bill Gates’ 6502 BASIC from 1978 | Historic interpreter taught millions to program on Commodore and Apple computers. - https://arstechnica.com/gadgets/2025/09/microsoft-open-sources-bill-gates-6502-basic-from-1978/, Score: 0.94
+2025-09-07 12:32:55,420 - INFO - Sentiment: POSITIVE (0.95), Keyword matches: 0, Keyword score: 0.00, Total score: 0.95
+2025-09-07 12:32:55,420 - INFO - Checked: Sembcorp to build 86MWp floating solar project on Singapore’s Pandan Reservoir - https://www.pv-tech.org/sembcorp-to-build-86mwp-floating-solar-project-on-singapores-pandan-reservoir/, Score: 0.95
+2025-09-07 12:32:55,463 - INFO - Sentiment: POSITIVE (0.96), Keyword matches: 0, Keyword score: 0.00, Total score: 0.96
+2025-09-07 12:32:55,463 - INFO - Checked: 'What are the odds?': Man wins new cottage in raffle after house burned down this summer - https://www.cbc.ca/news/canada/prince-edward-island/pei-2025-big-brothers-big-sisters-cottage-draw-1.7627135, Score: 0.96
+2025-09-07 12:32:55,463 - INFO - Skipped (already posted): NSW locks in great koala national park and brings in immediate ban on logging - https://www.theguardian.com/australia-news/2025/sep/07/nsw-locks-in-great-koala-national-park-and-brings-in-immediate-ban-on-logging
+2025-09-07 12:32:55,463 - INFO - Skipped (already posted): Verano Energy secures financing for 83MW/660MWh solar-plus-storage project in Chile - https://www.pv-tech.org/verano-energy-secures-financing-for-83mw-660mwh-solar-plus-storage-project-in-chile/
+2025-09-07 12:32:55,463 - INFO - Skipped (already posted): How romance and a road trip led to the purchase of the world's oldest drive-in theater - https://www.aol.com/romance-road-trip-led-purchase-114637838.html
+2025-09-07 12:32:55,463 - INFO - Would post (score 0.96): 'What are the odds?': Man wins new cottage in raffle after house burned down this summer - https://www.cbc.ca/news/canada/prince-edward-island/pei-2025-big-brothers-big-sisters-cottage-draw-1.7627135
+2025-09-07 12:33:34,710 - INFO - Sentiment: NEGATIVE (0.82), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:33:34,710 - INFO - Checked: Scientists develop plastic that dissolves in seawater - https://www.bbc.co.uk/newsround/articles/clygj701l8yo, Score: 0.00
+2025-09-07 12:33:34,753 - INFO - Sentiment: NEGATIVE (1.00), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:33:34,754 - INFO - Checked: ‘HIV-ending’ drug could be made for just $25 per patient a year, say researchers - https://www.theguardian.com/society/2025/jun/17/hiv-ending-drug-lenacapavir-manufacture-cost-per-patient-gilead, Score: 0.00
+2025-09-07 12:33:34,792 - INFO - Sentiment: NEGATIVE (0.90), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:33:34,792 - INFO - Checked: In a medical first, researchers report that they have implanted CRISPR-edited pancreas cells into a person with type 1 diabetes. The cells produced insulin for months — without the need for the recipient to take immune-dampening drugs. - https://www.nature.com/articles/d41586-025-02802-5, Score: 0.00
+2025-09-07 12:33:34,832 - INFO - Sentiment: NEGATIVE (0.97), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:33:34,832 - INFO - Checked: Woman rescued from domestic violence after using hand signal at 7-Eleven - https://local12.com/news/nation-world/john-palumbi-woman-rescued-from-domestic-violence-after-using-hand-signal-at-7-eleven-cincinnati-dilemma-social-public-health-issue-education-learning-without-bail-nonverbal-communication-methods-suspicious-activity-discreet-law-enforcement-relationships, Score: 0.00
+2025-09-07 12:33:34,832 - INFO - Skipped (already posted): The medical community is thrilled by U.S. support for a 'breakthrough' HIV drug - https://www.npr.org/sections/goats-and-soda/2025/09/04/nx-s1-5527019/hiv-prevention-drug-breakthrough-aids
+2025-09-07 12:33:34,868 - INFO - Sentiment: NEGATIVE (0.97), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:33:34,868 - INFO - Checked: 'I had no idea it would snowball this far': Why a Brazilian favela facing eviction decided to go green - https://www.bbc.com/future/article/20250821-why-a-brazilian-favela-facing-eviction-went-green-with-gardening, Score: 0.00
+2025-09-07 12:33:34,905 - INFO - Sentiment: POSITIVE (0.99), Keyword matches: 0, Keyword score: 0.00, Total score: 0.99
+2025-09-07 12:33:34,905 - INFO - Checked: France Champions Student Wellbeing with a 2025 School Digital Detox, Paving the Way for a Healthier, Phone-Free Generation - https://kbtimes.tech/france-champions-student-wellbeing-with-a-2025-school-digital-detox-paving-the-way-for-a-healthier-phone-free-generation/, Score: 0.99
+2025-09-07 12:33:34,939 - INFO - Sentiment: POSITIVE (0.87), Keyword matches: 0, Keyword score: 0.00, Total score: 0.87
+2025-09-07 12:33:34,940 - INFO - Checked: Two members of a rock band say they were inspired to launch an anti-bullying campaign following their own challenging experiences at school. - https://www.bbc.co.uk/news/articles/c99mdjp97m0o, Score: 0.87
+2025-09-07 12:33:34,940 - INFO - Skipped (already posted): Endangered mountain frog breeding program success after years of work - https://www.abc.net.au/news/2025-09-07/endangered-red-yellow-mountain-frogs-breeding-and-release/105739950
+2025-09-07 12:33:34,940 - INFO - Skipped (already posted): 'What are the odds?': P.E.I. man wins new cottage in raffle after house burned down this summer - https://www.cbc.ca/news/canada/prince-edward-island/pei-2025-big-brothers-big-sisters-cottage-draw-1.7627135
+2025-09-07 12:33:34,978 - INFO - Sentiment: NEGATIVE (0.62), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:33:34,978 - INFO - Checked: Catholic LGBT pilgrimage to Vatican sparks hopes of greater acceptance - https://www.politico.eu/article/catholic-lgbt-pilgrimage-to-vatican-sparks-hopes-of-greater-acceptance/, Score: 0.00
+2025-09-07 12:33:34,978 - INFO - Skipped (already posted): An Uplifting Tale of Ageless Achievement: Japan's Kokichi Akuzawa, 102, Conquers Mount Fuji in 2025 for a New World Record - https://kbtimes.tech/an-uplifting-tale-of-ageless-achievement-japans-kokichi-akuzawa-102-conquers-mount-fuji-in-2025-for-a-new-world-record/
+2025-09-07 12:33:35,018 - INFO - Sentiment: NEGATIVE (0.98), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:33:35,018 - INFO - Checked: Dog given less than 6 months to live cured of cancer after clinical trial - https://www.fox29.com/news/dog-given-less-than-6-months-live-cured-cancer-after-clinical-trial?link_source=ta_first_comment&taid=68baba80d6085a00012ba273, Score: 0.00
+2025-09-07 12:33:35,064 - INFO - Sentiment: POSITIVE (0.93), Keyword matches: 0, Keyword score: 0.00, Total score: 0.93
+2025-09-07 12:33:35,064 - INFO - Checked: North Yorkshire Moors Railway 'hires' three new railway kittens - https://www.bbc.co.uk/news/articles/cy0vr1xdx5xo, Score: 0.93
+2025-09-07 12:33:35,071 - INFO - Sentiment: POSITIVE (0.94), Keyword matches: 0, Keyword score: 0.00, Total score: 0.94
+2025-09-07 12:33:35,071 - INFO - Checked: Microsoft open-sources Bill Gates’ 6502 BASIC from 1978 | Historic interpreter taught millions to program on Commodore and Apple computers. - https://arstechnica.com/gadgets/2025/09/microsoft-open-sources-bill-gates-6502-basic-from-1978/, Score: 0.94
+2025-09-07 12:33:35,109 - INFO - Sentiment: POSITIVE (0.95), Keyword matches: 0, Keyword score: 0.00, Total score: 0.95
+2025-09-07 12:33:35,109 - INFO - Checked: Sembcorp to build 86MWp floating solar project on Singapore’s Pandan Reservoir - https://www.pv-tech.org/sembcorp-to-build-86mwp-floating-solar-project-on-singapores-pandan-reservoir/, Score: 0.95
+2025-09-07 12:33:35,109 - INFO - Skipped (already posted): 'What are the odds?': Man wins new cottage in raffle after house burned down this summer - https://www.cbc.ca/news/canada/prince-edward-island/pei-2025-big-brothers-big-sisters-cottage-draw-1.7627135
+2025-09-07 12:33:35,109 - INFO - Skipped (already posted): NSW locks in great koala national park and brings in immediate ban on logging - https://www.theguardian.com/australia-news/2025/sep/07/nsw-locks-in-great-koala-national-park-and-brings-in-immediate-ban-on-logging
+2025-09-07 12:33:35,109 - INFO - Skipped (already posted): Verano Energy secures financing for 83MW/660MWh solar-plus-storage project in Chile - https://www.pv-tech.org/verano-energy-secures-financing-for-83mw-660mwh-solar-plus-storage-project-in-chile/
+2025-09-07 12:33:35,109 - INFO - Skipped (already posted): How romance and a road trip led to the purchase of the world's oldest drive-in theater - https://www.aol.com/romance-road-trip-led-purchase-114637838.html
+2025-09-07 12:33:35,109 - INFO - Would post (score 0.95): Sembcorp to build 86MWp floating solar project on Singapore’s Pandan Reservoir - https://www.pv-tech.org/sembcorp-to-build-86mwp-floating-solar-project-on-singapores-pandan-reservoir/
+2025-09-07 12:37:33,924 - INFO - Sentiment: NEGATIVE (0.82), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:37:33,925 - INFO - Checked: Scientists develop plastic that dissolves in seawater - https://www.bbc.co.uk/newsround/articles/clygj701l8yo, Score: 0.00
+2025-09-07 12:37:33,968 - INFO - Sentiment: NEGATIVE (1.00), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:37:33,968 - INFO - Checked: ‘HIV-ending’ drug could be made for just $25 per patient a year, say researchers - https://www.theguardian.com/society/2025/jun/17/hiv-ending-drug-lenacapavir-manufacture-cost-per-patient-gilead, Score: 0.00
+2025-09-07 12:37:34,009 - INFO - Sentiment: NEGATIVE (0.90), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:37:34,010 - INFO - Checked: In a medical first, researchers report that they have implanted CRISPR-edited pancreas cells into a person with type 1 diabetes. The cells produced insulin for months — without the need for the recipient to take immune-dampening drugs. - https://www.nature.com/articles/d41586-025-02802-5, Score: 0.00
+2025-09-07 12:37:34,050 - INFO - Sentiment: NEGATIVE (0.97), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:37:34,050 - INFO - Checked: Woman rescued from domestic violence after using hand signal at 7-Eleven - https://local12.com/news/nation-world/john-palumbi-woman-rescued-from-domestic-violence-after-using-hand-signal-at-7-eleven-cincinnati-dilemma-social-public-health-issue-education-learning-without-bail-nonverbal-communication-methods-suspicious-activity-discreet-law-enforcement-relationships, Score: 0.00
+2025-09-07 12:37:34,050 - INFO - Skipped (already posted): The medical community is thrilled by U.S. support for a 'breakthrough' HIV drug - https://www.npr.org/sections/goats-and-soda/2025/09/04/nx-s1-5527019/hiv-prevention-drug-breakthrough-aids
+2025-09-07 12:37:34,088 - INFO - Sentiment: NEGATIVE (0.97), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:37:34,088 - INFO - Checked: 'I had no idea it would snowball this far': Why a Brazilian favela facing eviction decided to go green - https://www.bbc.com/future/article/20250821-why-a-brazilian-favela-facing-eviction-went-green-with-gardening, Score: 0.00
+2025-09-07 12:37:34,125 - INFO - Sentiment: POSITIVE (0.99), Keyword matches: 0, Keyword score: 0.00, Total score: 0.99
+2025-09-07 12:37:34,125 - INFO - Checked: France Champions Student Wellbeing with a 2025 School Digital Detox, Paving the Way for a Healthier, Phone-Free Generation - https://kbtimes.tech/france-champions-student-wellbeing-with-a-2025-school-digital-detox-paving-the-way-for-a-healthier-phone-free-generation/, Score: 0.99
+2025-09-07 12:37:34,159 - INFO - Sentiment: POSITIVE (0.87), Keyword matches: 0, Keyword score: 0.00, Total score: 0.87
+2025-09-07 12:37:34,159 - INFO - Checked: Two members of a rock band say they were inspired to launch an anti-bullying campaign following their own challenging experiences at school. - https://www.bbc.co.uk/news/articles/c99mdjp97m0o, Score: 0.87
+2025-09-07 12:37:34,159 - INFO - Skipped (already posted): Endangered mountain frog breeding program success after years of work - https://www.abc.net.au/news/2025-09-07/endangered-red-yellow-mountain-frogs-breeding-and-release/105739950
+2025-09-07 12:37:34,159 - INFO - Skipped (already posted): 'What are the odds?': P.E.I. man wins new cottage in raffle after house burned down this summer - https://www.cbc.ca/news/canada/prince-edward-island/pei-2025-big-brothers-big-sisters-cottage-draw-1.7627135
+2025-09-07 12:37:34,202 - INFO - Sentiment: NEGATIVE (0.62), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:37:34,202 - INFO - Checked: Catholic LGBT pilgrimage to Vatican sparks hopes of greater acceptance - https://www.politico.eu/article/catholic-lgbt-pilgrimage-to-vatican-sparks-hopes-of-greater-acceptance/, Score: 0.00
+2025-09-07 12:37:34,202 - INFO - Skipped (already posted): An Uplifting Tale of Ageless Achievement: Japan's Kokichi Akuzawa, 102, Conquers Mount Fuji in 2025 for a New World Record - https://kbtimes.tech/an-uplifting-tale-of-ageless-achievement-japans-kokichi-akuzawa-102-conquers-mount-fuji-in-2025-for-a-new-world-record/
+2025-09-07 12:37:34,243 - INFO - Sentiment: NEGATIVE (0.98), Keyword matches: 0, Keyword score: 0.00, Total score: 0.00
+2025-09-07 12:37:34,243 - INFO - Checked: Dog given less than 6 months to live cured of cancer after clinical trial - https://www.fox29.com/news/dog-given-less-than-6-months-live-cured-cancer-after-clinical-trial?link_source=ta_first_comment&taid=68baba80d6085a00012ba273, Score: 0.00
+2025-09-07 12:37:34,288 - INFO - Sentiment: POSITIVE (0.93), Keyword matches: 0, Keyword score: 0.00, Total score: 0.93
+2025-09-07 12:37:34,289 - INFO - Checked: North Yorkshire Moors Railway 'hires' three new railway kittens - https://www.bbc.co.uk/news/articles/cy0vr1xdx5xo, Score: 0.93
+2025-09-07 12:37:34,300 - INFO - Sentiment: POSITIVE (0.94), Keyword matches: 0, Keyword score: 0.00, Total score: 0.94
+2025-09-07 12:37:34,300 - INFO - Checked: Microsoft open-sources Bill Gates’ 6502 BASIC from 1978 | Historic interpreter taught millions to program on Commodore and Apple computers. - https://arstechnica.com/gadgets/2025/09/microsoft-open-sources-bill-gates-6502-basic-from-1978/, Score: 0.94
+2025-09-07 12:37:34,300 - INFO - Skipped (already posted): Sembcorp to build 86MWp floating solar project on Singapore’s Pandan Reservoir - https://www.pv-tech.org/sembcorp-to-build-86mwp-floating-solar-project-on-singapores-pandan-reservoir/
+2025-09-07 12:37:34,300 - INFO - Skipped (already posted): 'What are the odds?': Man wins new cottage in raffle after house burned down this summer - https://www.cbc.ca/news/canada/prince-edward-island/pei-2025-big-brothers-big-sisters-cottage-draw-1.7627135
+2025-09-07 12:37:34,300 - INFO - Skipped (already posted): NSW locks in great koala national park and brings in immediate ban on logging - https://www.theguardian.com/australia-news/2025/sep/07/nsw-locks-in-great-koala-national-park-and-brings-in-immediate-ban-on-logging
+2025-09-07 12:37:34,300 - INFO - Skipped (already posted): Verano Energy secures financing for 83MW/660MWh solar-plus-storage project in Chile - https://www.pv-tech.org/verano-energy-secures-financing-for-83mw-660mwh-solar-plus-storage-project-in-chile/
+2025-09-07 12:37:34,300 - INFO - Skipped (already posted): How romance and a road trip led to the purchase of the world's oldest drive-in theater - https://www.aol.com/romance-road-trip-led-purchase-114637838.html
+2025-09-07 12:37:34,300 - INFO - Would post (score 0.99): France Champions Student Wellbeing with a 2025 School Digital Detox, Paving the Way for a Healthier, Phone-Free Generation - https://kbtimes.tech/france-champions-student-wellbeing-with-a-2025-school-digital-detox-paving-the-way-for-a-healthier-phone-free-generation/
