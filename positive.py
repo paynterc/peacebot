@@ -1,4 +1,5 @@
 import os
+
 from pathlib import Path
 from dotenv import load_dotenv
 import praw
@@ -9,7 +10,7 @@ import logging
 # ==================== #
 # 0. Load .env file    #
 # ==================== #
-load_dotenv()
+# load_dotenv()
 
 # ==================== #
 # 1. Setup Logging      #
