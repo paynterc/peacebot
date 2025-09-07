@@ -1,7 +1,8 @@
-name: Run Python Script 4
+name: Scheduled Python Script
 
 on:
-  workflow_dispatch:
+  schedule:
+    - cron: '0 */12 * * *'
 
 jobs:
   run-script:
@@ -9,6 +10,16 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+
+      # Download latest posted-urls artifact from last successful workflow run
+      - name: Download posted_urls.txt
+        uses: actions/download-artifact@v4
+        with:
+          name: posted-urls
+          path: .
+
+      - name: Show posted_urls.txt BEFORE
+        run: cat posted_urls.txt || echo "(empty)"
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -19,16 +30,6 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-
-      # Ensure posted_urls.txt exists
-      - name: Ensure posted_urls.txt exists
-        run: |
-          if [ ! -f posted_urls.txt ]; then
-            echo "" > posted_urls.txt
-          fi
-
-      - name: Show posted_urls.txt BEFORE
-        run: cat posted_urls.txt || echo "(empty)"
 
       - name: Run script
         env:
@@ -41,7 +42,7 @@ jobs:
       - name: Show posted_urls.txt AFTER
         run: cat posted_urls.txt || echo "(empty)"
 
-      # Upload the file as artifact
+      # Upload the updated file again
       - name: Upload posted_urls.txt
         uses: actions/upload-artifact@v4
         with:
