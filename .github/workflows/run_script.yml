@@ -1,4 +1,4 @@
-name: Run Python Script 2
+name: Run Python Script 3
 
 on:
   schedule:
