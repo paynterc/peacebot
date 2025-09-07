@@ -18,6 +18,7 @@ jobs:
         with:
           name: posted-urls
           path: .
+        continue-on-error: true   # <--- continue even if artifact not found
 
       - name: Show posted_urls.txt BEFORE
         run: cat posted_urls.txt || echo "(empty)"
