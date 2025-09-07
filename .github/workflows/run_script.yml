@@ -41,6 +41,8 @@ jobs:
         with:
           name: posted-urls
           path: .
+        continue-on-error: true
+
 
       # 5. Run Python script
       - name: Run script
