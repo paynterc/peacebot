@@ -16,11 +16,13 @@ import logging
 # 1. Setup Logging      #
 # ==================== #
 logging.basicConfig(
-    filename="positive_bot.log",
     level=logging.INFO,
-    format="%(asctime)s - %(levelname)s - %(message)s"
+    format="%(asctime)s - %(levelname)s - %(message)s",
+    handlers=[
+        logging.FileHandler("positive_bot.log"),
+        logging.StreamHandler()  # Prints logs to GitHub Actions console
+    ]
 )
-
 # ==================== #
 # 2. Setup Reddit      #
 # ==================== #
