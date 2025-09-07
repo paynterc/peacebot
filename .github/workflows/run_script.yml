@@ -1,4 +1,4 @@
-name: Run Python Script 5
+name: Run Python Script 6
 
 on:
   schedule:
@@ -35,13 +35,15 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # 5. Restore posted_urls.txt (persistent cache)
+      # 5. Restore posted_urls.txt (rolling cache)
       - name: Restore posted_urls.txt
         id: cache-posted
         uses: actions/cache@v4
         with:
           path: posted_urls.txt
-          key: posted-urls-cache
+          key: posted-urls-${{ github.run_id }}
+          restore-keys: |
+            posted-urls-
 
       # 6. Ensure posted_urls.txt exists
       - name: Ensure posted_urls.txt exists
@@ -59,10 +61,18 @@ jobs:
           MASTODON_API_BASE_URL: ${{ secrets.MASTODON_API_BASE_URL }}
         run: python positive.py
 
-      # 8. Save updated posted_urls.txt back to cache
+      # 8. Debug: show posted_urls.txt contents
+      - name: Show posted_urls.txt
+        run: |
+          echo "==== posted_urls.txt ===="
+          cat posted_urls.txt
+
+      # 9. Save updated posted_urls.txt back to cache
       - name: Save posted_urls.txt
         if: always()
         uses: actions/cache@v4
         with:
           path: posted_urls.txt
-          key: posted-urls-cache
+          key: posted-urls-${{ github.run_id }}
+          restore-keys: |
+            posted-urls-
