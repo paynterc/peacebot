@@ -27,15 +27,16 @@ jobs:
           ARTIFACT_URL=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
             "https://api.github.com/repos/${{ github.repository }}/actions/runs/${{ steps.get_run_id.outputs.run_id }}/artifacts" \
             | jq -r '.artifacts[] | select(.name=="posted-urls") | .archive_download_url')
-          
+
           if [ -n "$ARTIFACT_URL" ]; then
             echo "Downloading artifact from last successful run..."
             curl -L -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" -o posted_urls.zip "$ARTIFACT_URL"
-            unzip posted_urls.zip -d .
+            unzip -o posted_urls.zip -d .
+            echo "Downloaded and extracted posted_urls.txt"
           else
             echo "No artifact found from last successful run, continuing..."
           fi
-        continue-on-error: true   # continue even if artifact not found
+        continue-on-error: true
 
       - name: Show posted_urls.txt BEFORE
         run: cat posted_urls.txt || echo "(empty)"
@@ -67,4 +68,3 @@ jobs:
         with:
           name: posted-urls
           path: posted_urls.txt
-
