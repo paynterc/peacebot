@@ -1,4 +1,4 @@
-name: Run Python Script 6
+name: Run Python Script 7
 
 on:
   schedule:
@@ -52,7 +52,13 @@ jobs:
             echo "" > posted_urls.txt
           fi
 
-      # 7. Run Python script
+      # 7. Show URLs BEFORE script run
+      - name: Show posted_urls.txt (before)
+        run: |
+          echo "==== posted_urls.txt BEFORE ===="
+          cat posted_urls.txt || echo "(empty)"
+
+      # 8. Run Python script
       - name: Run script
         env:
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
@@ -61,13 +67,13 @@ jobs:
           MASTODON_API_BASE_URL: ${{ secrets.MASTODON_API_BASE_URL }}
         run: python positive.py
 
-      # 8. Debug: show posted_urls.txt contents
-      - name: Show posted_urls.txt
+      # 9. Show URLs AFTER script run
+      - name: Show posted_urls.txt (after)
         run: |
-          echo "==== posted_urls.txt ===="
-          cat posted_urls.txt
+          echo "==== posted_urls.txt AFTER ===="
+          cat posted_urls.txt || echo "(empty)"
 
-      # 9. Save updated posted_urls.txt back to cache
+      # 10. Save updated posted_urls.txt back to cache
       - name: Save posted_urls.txt
         if: always()
         uses: actions/cache@v4

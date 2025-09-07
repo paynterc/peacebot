@@ -1,9 +1,8 @@
 import os
-
 from pathlib import Path
 # from dotenv import load_dotenv
 import praw
-from mastodon import Mastodon
+# from mastodon import Mastodon
 from transformers import pipeline
 import logging
 
@@ -23,6 +22,7 @@ logging.basicConfig(
         logging.StreamHandler()  # Prints logs to GitHub Actions console
     ]
 )
+
 # ==================== #
 # 2. Setup Reddit      #
 # ==================== #
@@ -46,10 +46,10 @@ def is_positive(text):
 # ==================== #
 # 4. Mastodon Auth     #
 # ==================== #
-mastodon = Mastodon(
-    access_token=os.getenv("MASTODON_ACCESS_TOKEN"),
-    api_base_url=os.getenv("MASTODON_API_BASE_URL")
-)
+# mastodon = Mastodon(
+#     access_token=os.getenv("MASTODON_ACCESS_TOKEN"),
+#     api_base_url=os.getenv("MASTODON_API_BASE_URL")
+# )
 
 # ==================== #
 # 5. Duplicate Tracking#
@@ -84,11 +84,11 @@ def post_positive_story():
                 toot_text = toot_text[:497] + "..."
             
             try:
-                mastodon.toot(toot_text)
-                logging.info(f"Posted: {title} - {url}")
+                # mastodon.toot(toot_text)
+                logging.info(f"Would have posted: {title} - {url}")
                 save_posted_url(url)
             except Exception as e:
-                logging.error(f"Failed to post: {title} - {url} - {e}")
+                logging.error(f"Failed to process: {title} - {url} - {e}")
             break
         else:
             logging.info(f"Skipped (not positive enough): {title} - {url}")
