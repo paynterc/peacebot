@@ -22,12 +22,12 @@ jobs:
           echo "run_id=$RUN_ID" >> $GITHUB_OUTPUT
 
       # Download latest posted-urls artifact from last successful workflow run
-      - name: Download posted_urls.txt
-        uses: actions/download-artifact@v4
-        with:
-          name: posted-urls
-          path: .
-          run-id: ${{ steps.get_run_id.outputs.run_id }}
+      - name: Download posted_urls.txt from last successful run
+        run: |
+          curl -L -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+          -o posted_urls.zip \
+          "https://api.github.com/repos/${{ github.repository }}/actions/runs/${{ steps.get_run_id.outputs.run_id }}/artifacts"
+          unzip posted_urls.zip -d .
         continue-on-error: true   # continue even if artifact not found
 
       - name: Show posted_urls.txt BEFORE
