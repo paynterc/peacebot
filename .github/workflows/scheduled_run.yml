@@ -36,7 +36,6 @@ jobs:
           else
             echo "No artifact found from last successful run, continuing..."
           fi
-        continue-on-error: true
 
       - name: Show posted_urls.txt BEFORE
         run: cat posted_urls.txt || echo "(empty)"
