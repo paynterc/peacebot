@@ -1,7 +1,7 @@
 import os
 
 from pathlib import Path
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 import praw
 from mastodon import Mastodon
 from transformers import pipeline
