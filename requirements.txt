@@ -1,4 +1,4 @@
-praw
-Mastodon.py
-transformers
-torch
+praw==7.7.0
+Mastodon.py==1.8.1
+transformers==4.42.0
+torch==2.2.0
