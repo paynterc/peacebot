@@ -18,6 +18,7 @@ jobs:
         with:
           name: posted-urls
           path: .
+          run-id: ${{ github.event.workflow_run.id }}
         continue-on-error: true   # <--- continue even if artifact not found
 
       - name: Show posted_urls.txt BEFORE
