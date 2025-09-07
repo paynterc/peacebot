@@ -46,10 +46,10 @@ def is_positive(text):
 # ==================== #
 # 4. Mastodon Auth     #
 # ==================== #
-# mastodon = Mastodon(
-#     access_token=os.getenv("MASTODON_ACCESS_TOKEN"),
-#     api_base_url=os.getenv("MASTODON_API_BASE_URL")
-# )
+mastodon = Mastodon(
+    access_token=os.getenv("MASTODON_ACCESS_TOKEN"),
+    api_base_url=os.getenv("MASTODON_API_BASE_URL")
+)
 
 # ==================== #
 # 5. Duplicate Tracking#
@@ -84,7 +84,7 @@ def post_positive_story():
                 toot_text = toot_text[:497] + "..."
             
             try:
-                # mastodon.toot(toot_text)
+                mastodon.toot(toot_text)
                 logging.info(f"Would have posted: {title} - {url}")
                 save_posted_url(url)
             except Exception as e:
